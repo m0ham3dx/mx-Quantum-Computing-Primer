@@ -29,7 +29,10 @@ Portfolio Website - m0ham3d.com
 - [ℹ️ REPO DESCRIPTION](#ℹ️-repo-description)
 - [🎓LEARNING RESOURCES OF QC](#learning-resources-of-qc)
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
+  - [Definition of `Quantum`](#definition-of-quantum)
+  - [Quantum Physics](#quantum-physics)
   - [Atomic Structure](#atomic-structure)
+  - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
 - [🔎 REFERENCES](#-references)
 - [📒 GLOSSARY](#-glossary)
@@ -46,11 +49,21 @@ These are going to links to resources which have a simplified explanation of QC,
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
+## Definition of `Quantum`
+
+
+## Quantum Physics 
+
+
+
 ## Atomic Structure 
 
 The following diagram is an illustration of the [Stanard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles.
 
 [![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
+
+
+## Quantum Particles
 
 
 
