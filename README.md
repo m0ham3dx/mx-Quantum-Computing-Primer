@@ -12,7 +12,7 @@ Portfolio Website - m0ham3d.com
 <img src="./img/qe.gif" alt="Quantum Entanglement">
 <p align="center">
 <a href="./infogfx/QEE.jpg" target="_blank">
-<i> Illustration of Quantum Entanglement - also referred to as "Spooky Action at a distance". Click me for an illustrative explanation. </i> 
+<i> Illustration of Quantum Entanglement - also referred to as "Spooky Action at a distance". Click me for an illustrative explanation.[^2] </i> 
 </a>
 </p>
 </a>
@@ -37,7 +37,6 @@ This repository has been made after my personal interest in Quantum Computing an
 
 # 🎓Learning Resources for Quantum Computing (QC)
 
-These are going to links to resources which have a simplified explanation of QC, which are not math heavy[^1].
+These are going to links to resources which have a simplified explanation of QC, which are not math heavy.
 
-[^1]: This is 
-
+[^1]: [THis](youtube.com) - ll 
