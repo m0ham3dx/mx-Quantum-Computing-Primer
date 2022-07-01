@@ -48,6 +48,8 @@ The scientific concepts mentioned in this repository are simplified definitions,
 
 The goal of the scientfic concepts is to build a foundation in undertanding the origins or *QC*.
 
+I have also added *🍌TLDR* block to each section, for fast understanding.
+
 # 🎓LEARNING RESOURCES OF QC
 
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
@@ -59,6 +61,7 @@ N | Source | Url | Synopsis
 3 | ▶️Youtube | ▶️[Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8) |  Understanding quantum computing in light of quantum physics concepts. *Qubits* the fundamenetal processing unit of QC
 4 | 📷Slides | 📷[Quantum Physics Infographics](https://slidesgo.com/theme/quantum-physics-infographics) | Simplified understanding of QP by comparison to the macro world
 
+> 🍌 TLDR - Above media is more entertaining than reading the following text
 
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
 
