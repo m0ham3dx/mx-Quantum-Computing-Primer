@@ -57,6 +57,7 @@ N | Source | Url | Synopsis
 1 | ▶️Youtube | ▶️[Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
 2 | ▶️Youtube | ▶️[Physics - Chapt. 66 Quantum Mechanics (1 of 9) What Is Quantum Mechanics?](https://youtu.be/j-HdVUTemO0) | - Physics lecture on understanding *Quantum Mechanics*, thisi branch exists because standard laws of physics are modified at a subatomic level
 3 | ▶️Youtube | ▶️[Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8) |  Understanding quantum computing in light of quantum physics concepts. *Qubits* the fundamenetal processing unit of QC
+4 | 📷Slides | 📷[Quantum Physics Infographics](https://slidesgo.com/theme/quantum-physics-infographics) | Simplified understanding of QP by comparison to the macro world
 
 
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
@@ -86,7 +87,7 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 <a href="https://bigthink.com/hard-science/the-physics-of-everything-in-one-neat-map/" target="_blank">
 <img src="./infogfx/phyla.png">
 </a>
-Current lanscape of understanding of physics
+<i>Current lanscape of understanding of physics</i>
 </p>
 
 Quantum Physics 
@@ -125,3 +126,5 @@ flowchart TD
 n | Term | Expansion
 |:--|:--:|:--|
 1 | QC | Quantum Computing 
+2 | QP | Quantum Physics 
+3 | QP | Quantum Mechanics
