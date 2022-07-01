@@ -94,8 +94,25 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 <i>Current lanscape of understanding of physics</i>
 </p>
 
-Quantum Physics 
+```mermaid
+flowchart TD
+    A[Quantum<br>Physics] -->|Objects<br>described as<br>|A1(Wave<br>Functions)
+    
+    A1 -->|Measuring|B
+    subgraph B [When measuring measuring we see particles]
+        direction TB
+        B1(Particle Wave<br>Duality) o--o B2(Measurement<br>Problem)
+    end
 
+    A1 -->|Consequence|C 
+    subgraph C [Quantum Phenomenon]
+        direction TB
+        C1[Superposition] o--o C11[Entanglement]
+        C11 o--o C2
+        C2[Quantum\nTunneling] o--oC3[Heisenberg \n Uncertaining \n Principle]    
+        C3 o--o C4[Energy\nQuantization]
+    end
+```
 
 
 ## Atomic Structure 
