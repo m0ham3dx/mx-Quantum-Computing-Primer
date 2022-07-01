@@ -109,8 +109,8 @@ flowchart TD
         direction LR
         C1[Superposition] o--o C11[Entanglement]
         C11 o--o C2
-        C2[Quantum\nTunneling] o--oC3[Heisenberg \n Uncertaining \n Principle]    
-        C3 o--o C4[Energy\nQuantization]
+        C2[Quantum\nTunneling] o--oC3[Heisenberg<br>Uncertainity<br>Principle]    
+        C3 o--o C4[Energy<br>Quantization]
     end
 ```
 
