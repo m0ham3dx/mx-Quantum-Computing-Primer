@@ -12,7 +12,7 @@ Portfolio Website - m0ham3d.com
 <img src="./img/qe.gif" alt="Quantum Entanglement">
 <p align="center">
 <a href="./infogfx/QEE.jpg" target="_blank">
-<i> Illustration of Quantum Entanglement - also referred to as "Spooky Action at a distance". Click me for an illustrative explanation.[^2] </i> 
+<i> Illustration of Quantum Entanglement - also referred to as "Spooky Action at a distance". Click me for an illustrative explanation. </i> 
 </a>
 </p>
 </a>
@@ -23,13 +23,14 @@ Portfolio Website - m0ham3d.com
 </a>
 </p>
 
-
-
 ----
 # 🤌 TOC
 
-1. [ℹ️ Repo Description](#repo-description) - General Description of this repository 
-2. [🎓 Learning Resources for Quantimputing QC](#learning-resources-for-quantum-computing-qc) - General learning resources 
+1. [🤌 TOC](#-toc)
+- [🤌 TOC](#-toc)
+- [ℹ️ Repo Description](#ℹ️-repo-description)
+- [🎓Learning Resources for Quantum Computing (QC)](#learning-resources-for-quantum-computing-qc)
+- [🎛️ Fundamental Principles of Quantum Mechanics](#️-fundamental-principles-of-quantum-mechanics)
 
 ----
 # ℹ️ Repo Description
@@ -37,6 +38,6 @@ This repository has been made after my personal interest in Quantum Computing an
 
 # 🎓Learning Resources for Quantum Computing (QC)
 
-These are going to links to resources which have a simplified explanation of QC, which are not math heavy.
+These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
-[^1]: [THis](youtube.com) - ll 
+# 🎛️ Fundamental Principles of Quantum Mechanics
