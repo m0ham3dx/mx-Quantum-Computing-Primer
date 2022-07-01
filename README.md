@@ -80,6 +80,7 @@ These prinicples will be all in illustratins and diagramatic form. These diagram
 
 Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a [sub atomic particle](https://www.livescience.com/mystery-of-proton-neutron-behavior-in-nucleus.html), such as [electrons (e<SUP>-</SUP>), protons (p<sup>+</sup>), neutrons (n<sup>0</sup>)](https://www.livescience.com/65427-fundamental-elementary-particles.html). 
 
+> 🍌 TLDR - Quantum means the smallest and simplest unit of thing
 
 ## Quantum Physics 
 
@@ -100,6 +101,7 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 [![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
 
+> 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
 ## Quantum Particles
 
