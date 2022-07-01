@@ -45,7 +45,10 @@ This repository has been made after my personal interest in Quantum Computing an
 
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
-1. [Youtube - Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) - Animation describing the dual behavior of a particle as both a wave and a particle
+N | Source | Url | Synopsis
+|:--|:--:|:--:|:--|
+1 | Youtube | [Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
+
 
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
 
