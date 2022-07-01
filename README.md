@@ -25,7 +25,6 @@ Portfolio Website - m0ham3d.com
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
 </a>
 </p>
-![![Twitter Follow](https://img.shields.io/twitter/follow/m0ham3dxx?style=social)]
 
 ----
 # 🤌 TOC
