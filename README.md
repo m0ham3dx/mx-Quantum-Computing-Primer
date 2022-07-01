@@ -50,15 +50,28 @@ The goal of the scientfic concepts is to build a foundation in undertanding the 
 
 # 🎓LEARNING RESOURCES OF QC
 
-These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
+These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
 
 N | Source | Url | Synopsis
 |:--|:--:|:--:|:--:|
 1 | ▶️Youtube | ▶️[Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
-2 | ▶️Youtube | ▶️[Physics - Chapt. 66 Quantum Mechanics (1 of 9) What Is Quantum Mechanics?](https://youtu.be/j-HdVUTemO0) | - Phsyics lecture on understanding *Quantum Mechanics*, thisi branch exists because standard laws of physics are modified at a subatomic level 
+2 | ▶️Youtube | ▶️[Physics - Chapt. 66 Quantum Mechanics (1 of 9) What Is Quantum Mechanics?](https://youtu.be/j-HdVUTemO0) | - Physics lecture on understanding *Quantum Mechanics*, thisi branch exists because standard laws of physics are modified at a subatomic level
+3 | ▶️Youtube | ▶️[Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8) |  Understanding quantum computing in light of quantum physics concepts. *Qubits* the fundamenetal processing unit of QC
 
 
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
+
+To understand QC we have first to have understand important concepts of quantum physics. The *knowlege tree* looks like the following - 
+
+```mermaid
+flowchart TD
+    A[Quantum\nComputing] --> B(Define\nQuantum)
+    A --> C(Quantum\nPhysics)
+    C --> C1(Quantum\nMechanics)
+    A --> D(Atomic\nStructure)
+    D --> D1(Quantum\nParticles)
+    C <--> D1
+```
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
