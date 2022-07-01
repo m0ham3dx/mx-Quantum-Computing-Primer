@@ -82,6 +82,13 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 
 ## Quantum Physics 
 
+<p align="center">
+<a href="https://bigthink.com/hard-science/the-physics-of-everything-in-one-neat-map/" target="_blank">
+<img src="./infogfx/phyla.png">
+</a>
+Current lanscape of understanding of physics
+</p>
+
 Quantum Physics 
 
 
