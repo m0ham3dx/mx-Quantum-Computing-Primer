@@ -29,7 +29,7 @@ Portfolio Website - m0ham3d.com
 - [ℹ️ Repo Description](#ℹ️-repo-description)
 - [🎓Learning Resources for Quantum Computing (QC)](#learning-resources-for-quantum-computing-qc)
 - [🎛️ Fundamental Principles of Quantum Mechanics](#️-fundamental-principles-of-quantum-mechanics)
-- [laskdas](#laskdas)
+  - [Quantum Mechanucs](#quantum-mechanucs)
 
 ----
 # ℹ️ Repo Description
@@ -41,4 +41,11 @@ These are going to links to resources which have a simplified explanation of QC,
 
 # 🎛️ Fundamental Principles of Quantum Mechanics
 
-# laskdas
+These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
+
+## Quantum Mechanucs 
+
+```mermaid 
+flowchart TD 
+    A --> B
+```
