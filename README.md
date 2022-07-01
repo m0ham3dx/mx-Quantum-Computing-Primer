@@ -100,13 +100,13 @@ flowchart TD
     
     A1 -->|Measuring|B
     subgraph B [Particles Seen]
-        direction TB
+        direction LR
         B1(Particle Wave<br>Duality) o--o B2(Measurement<br>Problem)
     end
 
     A1 -->|Consequence|C 
     subgraph C [Quantum Phenomenon]
-        direction TB
+        direction LR
         C1[Superposition] o--o C11[Entanglement]
         C11 o--o C2
         C2[Quantum\nTunneling] o--oC3[Heisenberg \n Uncertaining \n Principle]    
