@@ -45,11 +45,16 @@ This repository has been made after my personal interest in Quantum Computing an
 
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
+1. [Youtube - Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) - Animation describing the dual behavior of a particle as both a wave and a particle
+
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
 ## Definition of `Quantum`
+
+Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a particle 
+
 
 
 ## Quantum Physics 
