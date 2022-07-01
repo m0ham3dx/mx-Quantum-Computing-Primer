@@ -11,8 +11,8 @@ Portfolio Website - m0ham3d.com
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
 <img src="./img/qe.gif" alt="Quantum Entanglement">
 <p align="center">
-<a href="https://twitter.com/m0ham3dxx" target="_blank">
-<i> Illustration of Quantum Entanglement </i> 
+<a href="./infogfx/QEE.jpg" target="_blank">
+<i> Illustration of Quantum Entanglement - also referred to as "Spooky Action at a distance". Click me for an illustrative explanation. </i> 
 </a>
 </p>
 </a>
