@@ -26,21 +26,23 @@ Portfolio Website - m0ham3d.com
 ----
 # 🤌 TOC
 - [🤌 TOC](#-toc)
-- [ℹ️ Repo Description](#ℹ️-repo-description)
-- [🎓Learning Resources for Quantum Computing (QC)](#learning-resources-for-quantum-computing-qc)
-- [🎛️ Fundamental Principles of Quantum Mechanics](#️-fundamental-principles-of-quantum-mechanics)
+- [ℹ️ REPO DESCRIPTION](#ℹ️-repo-description)
+- [🎓LEARNING RESOURCES OF QC](#learning-resources-of-qc)
+- [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Atomic Structure](#atomic-structure)
   - [Quantum Mechanics](#quantum-mechanics)
+- [🔎 REFERENCES](#-references)
+- [📒 GLOSSARY](#-glossary)
 
 ----
-# ℹ️ Repo Description
+# ℹ️ REPO DESCRIPTION
 This repository has been made after my personal interest in Quantum Computing and it rapid development into an easily accessible form. This list will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced.
 
-# 🎓Learning Resources for Quantum Computing (QC)
+# 🎓LEARNING RESOURCES OF QC
 
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
-# 🎛️ Fundamental Principles of Quantum Mechanics
+# 🎛️ FUNDAMENTAL PRINCIPLES OF QC
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
@@ -58,3 +60,9 @@ Defined as a sub field of physics that describes interaction between particles o
 flowchart TD 
     A --> B
 ```
+
+
+
+# 🔎 REFERENCES 
+
+# 📒 GLOSSARY 
