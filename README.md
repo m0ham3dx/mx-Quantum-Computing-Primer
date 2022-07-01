@@ -76,6 +76,9 @@ flowchart TD
     D --> D1(Quantum\nParticles)
     C <--> D1
 ```
+<p align="center">
+<i>Fig1: QC knowledge tree</i>
+<p>
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
@@ -91,7 +94,7 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 <a href="https://bigthink.com/hard-science/the-physics-of-everything-in-one-neat-map/" target="_blank">
 <img src="./infogfx/phyla.png">
 </a>
-<i>Current lanscape of understanding of physics</i>
+<i>Fig2: Current lanscape of understanding of physics</i>
 </p>
 
 ```mermaid
@@ -113,7 +116,9 @@ flowchart TD
         C3 o--o C4[Energy<br>Quantization]
     end
 ```
-
+<p align="center">
+<i>Fig 3: Components of QP</i>
+<p>
 
 ## Atomic Structure 
 
