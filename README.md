@@ -55,7 +55,8 @@ These are going to links to resources which have a simplified explanation of QC,
 
 N | Source | Url | Synopsis
 |:--|:--:|:--:|:--:|
-1 | Youtube | [Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
+1 | ▶️Youtube | ▶️[Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
+2 | ▶️Youtube | ▶️[Physics - Chapt. 66 Quantum Mechanics (1 of 9) What Is Quantum Mechanics?](https://youtu.be/j-HdVUTemO0) | - Phsyics lecture on understanding *Quantum Mechanics*, thisi branch exists because standard laws of physics are modified at a subatomic level 
 
 
 # 🎛️ FUNDAMENTAL PRINCIPLES OF QC
@@ -69,11 +70,13 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 
 ## Quantum Physics 
 
+Quantum Physics 
+
 
 
 ## Atomic Structure 
 
-The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles.
+The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
 
 [![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
 
