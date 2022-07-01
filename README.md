@@ -37,4 +37,7 @@ This repository has been made after my personal interest in Quantum Computing an
 
 # 🎓Learning Resources for Quantum Computing (QC)
 
-These are going to links to resources which have a simplified explanation of QC, which are not math heavy.
+These are going to links to resources which have a simplified explanation of QC, which are not math heavy[^1].
+
+[^1]: This is 
+
