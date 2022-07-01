@@ -99,7 +99,7 @@ flowchart TD
     A[Quantum<br>Physics] -->|Objects<br>described as<br>|A1(Wave<br>Functions)
     
     A1 -->|Measuring|B
-    subgraph B [When measuring measuring we see particles]
+    subgraph B [Particles Seen]
         direction TB
         B1(Particle Wave<br>Duality) o--o B2(Measurement<br>Problem)
     end
