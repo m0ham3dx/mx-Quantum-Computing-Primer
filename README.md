@@ -65,4 +65,10 @@ flowchart TD
 
 # 🔎 REFERENCES 
 
+1. [Header Quantum Entanglement Gif](https://tenor.com/view/entanglement-quantum-entanglement-science-atoms-gif-17770432) - Actual source of image is not described
+
 # 📒 GLOSSARY 
+
+n | Term | Expansion
+|:--|:--:|:--|
+1 | QC | Quantum Computing 
