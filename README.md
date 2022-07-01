@@ -29,7 +29,8 @@ Portfolio Website - m0ham3d.com
 - [ℹ️ Repo Description](#ℹ️-repo-description)
 - [🎓Learning Resources for Quantum Computing (QC)](#learning-resources-for-quantum-computing-qc)
 - [🎛️ Fundamental Principles of Quantum Mechanics](#️-fundamental-principles-of-quantum-mechanics)
-  - [Quantum Mechanucs](#quantum-mechanucs)
+  - [Atomic Structure](#atomic-structure)
+  - [Quantum Mechanics](#quantum-mechanics)
 
 ----
 # ℹ️ Repo Description
@@ -43,7 +44,15 @@ These are going to links to resources which have a simplified explanation of QC,
 
 These prinicples will be all in illustratins and diagramatic form. These diagrams will be either native github `mermaid` diagrams or external sources 
 
-## Quantum Mechanucs 
+## Atomic Structure 
+
+
+
+
+## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
+
+Defined as a sub field of physics that describes interaction between particles of the sub atomic realm. *Sub Atomic* referring to the particles that form the atoms, and those particles that form the atoms.
+
 
 ```mermaid 
 flowchart TD 
