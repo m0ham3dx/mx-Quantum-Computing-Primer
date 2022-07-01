@@ -48,6 +48,9 @@ These prinicples will be all in illustratins and diagramatic form. These diagram
 
 ## Atomic Structure 
 
+The following diagram is an illustration of the [Stanard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles.
+
+[![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
 
 
 
@@ -65,7 +68,7 @@ flowchart TD
 
 # 🔎 REFERENCES 
 
-1. [Header Quantum Entanglement Gif](https://tenor.com/view/entanglement-quantum-entanglement-science-atoms-gif-17770432) - Actual source of image is not described
+1. [Header Quantum Entanglement Gif](https://tenor.com/view/entanglement-quantum-entanglement-science-atoms-gif-17770432) - Actual source of image is not described. The illustration is factual as described [HERE.](https://www.livescience.com/what-is-quantum-entanglement.html)
 
 # 📒 GLOSSARY 
 
