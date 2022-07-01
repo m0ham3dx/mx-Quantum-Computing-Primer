@@ -60,6 +60,7 @@ N | Source | Url | Synopsis
 2 | ▶️Youtube | ▶️[Physics - Chapt. 66 Quantum Mechanics (1 of 9) What Is Quantum Mechanics?](https://youtu.be/j-HdVUTemO0) | - Physics lecture on understanding *Quantum Mechanics*, thisi branch exists because standard laws of physics are modified at a subatomic level
 3 | ▶️Youtube | ▶️[Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8) |  Understanding quantum computing in light of quantum physics concepts. *Qubits* the fundamenetal processing unit of QC
 4 | 📷Slides | 📷[Quantum Physics Infographics](https://slidesgo.com/theme/quantum-physics-infographics) | Simplified understanding of QP by comparison to the macro world
+5 | ▶️Youtube | ▶️[If You Don't Understand Quantum Physics, Try This!](https://youtu.be/Usu9xZfabPM) | Source video for Fig 3: Components of QP
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
 
