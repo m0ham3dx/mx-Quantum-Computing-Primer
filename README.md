@@ -25,12 +25,11 @@ Portfolio Website - m0ham3d.com
 
 ----
 # 🤌 TOC
-
-1. [🤌 TOC](#-toc)
 - [🤌 TOC](#-toc)
 - [ℹ️ Repo Description](#ℹ️-repo-description)
 - [🎓Learning Resources for Quantum Computing (QC)](#learning-resources-for-quantum-computing-qc)
 - [🎛️ Fundamental Principles of Quantum Mechanics](#️-fundamental-principles-of-quantum-mechanics)
+- [laskdas](#laskdas)
 
 ----
 # ℹ️ Repo Description
@@ -41,3 +40,5 @@ This repository has been made after my personal interest in Quantum Computing an
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
 # 🎛️ Fundamental Principles of Quantum Mechanics
+
+# laskdas
