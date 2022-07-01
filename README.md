@@ -46,7 +46,7 @@ This repository has been made after my personal interest in Quantum Computing an
 These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. 
 
 N | Source | Url | Synopsis
-|:--|:--:|:--:|:--|
+|:--|:--:|:--:|:--:|
 1 | Youtube | [Quantum Physics made simple - Wave-Particle Duality Animation](https://youtu.be/Xmq_FJd1oUQ) |  Animation describing the dual behavior of a particle as both a wave and a particle
 
 
@@ -56,8 +56,7 @@ These prinicples will be all in illustratins and diagramatic form. These diagram
 
 ## Definition of `Quantum`
 
-Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a particle 
-
+Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a [sub atomic particle](https://www.livescience.com/mystery-of-proton-neutron-behavior-in-nucleus.html), such as [electrons (e<SUP>-</SUP>), protons (p<sup>+</sup>), neutrons (n<sup>0</sup>)](https://www.livescience.com/65427-fundamental-elementary-particles.html). 
 
 
 ## Quantum Physics 
@@ -66,7 +65,7 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 
 ## Atomic Structure 
 
-The following diagram is an illustration of the [Stanard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles.
+The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles.
 
 [![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
 
