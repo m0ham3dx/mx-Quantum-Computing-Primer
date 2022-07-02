@@ -63,6 +63,7 @@ N | Source | Url | Synopsis
 4 | 📷Slides | [📷 Quantum Physics Infographics](https://slidesgo.com/theme/quantum-physics-infographics) | Simplified understanding of QP by comparison to the macro world
 5 | ▶️Youtube | [▶️ If You Don't Understand Quantum Physics, Try This!](https://youtu.be/Usu9xZfabPM) | Source video for *Fig 3: Components of QP*
 6 | ▶️Youtube | [▶️ quantum superposition of states and decoherence](https://youtu.be/7B1llCxVdkE) | Animation describing superposition of quantum states of an electron and decoherence (time taken for the superposition to disappear)
+7 | 📃Paper | [📃 Quantum States & Superposition](https://www.southampton.ac.uk/~doug/quantum_physics/superposition.pdf) | Mathematical discussion of Quantum States & Superposition
 
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
@@ -148,8 +149,20 @@ The **Measurement Problem** states that these wave functions abruptly collapse i
 Superposition | Decoherence 
 |:--:|:--:|
 [![](./infogfx/QSP1.png)](https://youtu.be/7B1llCxVdkE) | [![](./infogfx/QSP2.png)](https://youtu.be/7B1llCxVdkE)
+<p align="center">
+<i>Fig 6: Quantum Superposition & Decoherence</i>
+<p>
 
-*Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured. 
+*Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured. 
+
+4. **👻Entanglement** (also referred to as Spooky Action)
+
+[![](./infogfx/QEN.png)](https://www.nasa.gov/feature/jpl/particles-in-love-quantum-mechanics-explored-in-new-study)
+<p align="center">
+<i>Fig 7: Quantum Entanglement or Spooky Action</i>
+<p>
+
+[Quantum Entanglement is most bizzare and mysterious properties of quantum particles](https://www.livescience.com/what-is-quantum-entanglement.html), 
 
 
 
