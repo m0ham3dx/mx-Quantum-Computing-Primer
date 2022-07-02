@@ -164,7 +164,7 @@ $$
 Quantum State\sim \Psi(x,t)
 $$
 
-Where the function $ \Psi $ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate ($ x $) and time ($ t $) 
+Where the function $ \Psi $ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$) 
 
 
 
