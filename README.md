@@ -66,6 +66,7 @@ N | Source | Url | Synopsis
 6 | ▶️Youtube | [▶️ quantum superposition of states and decoherence](https://youtu.be/7B1llCxVdkE) | Animation superposition of quantum states of an electron and decoherence (time taken for the superposition to disappear)
 7 | 📃Paper | [📃 Quantum States & Superposition](https://www.southampton.ac.uk/~doug/quantum_physics/superposition.pdf) | Mathematical discussion of Quantum States & Superposition
 8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quanutm teunneling effect, ie., quantum particles can pass through objects
+9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
 
 
 
@@ -168,6 +169,10 @@ $$
 
 Where the function $ \Psi $ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$). This wave function indicates that the behavior of a quantum object is [probabilistic](https://quantumatlas.umd.edu/entry/quantum-states/), this means that the wave function encodes all the probabilistic outcomes of the measurement and this *quantum state* equation captures the full range of these possible measurement outcomes.   
 
+[![](./infogfx/wafu.gif)](https://youtu.be/RF7dDt3tVm)
+<p align="center">
+<i>Fig 6.1: 3d Illustration of a wave function</i>
+<p>
 
 4. **👻Entanglement** (also referred to as Spooky Action)
 
@@ -187,6 +192,7 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 <p align="center">
 <i>Fig 8: Quantum Tunneling</i>
 <p>
+
 
 
 ## Atomic Structure
