@@ -36,7 +36,8 @@ Portfolio Website - m0ham3d.com
   - [Atomic Structure](#atomic-structure)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
-- [🔎 REFERENCES](#-references)
+- [🐱‍💻 Quantum Computing (Finally 🙃)](#-quantum-computing-finally-)
+- [🔎 References](#-references)
 - [📒 GLOSSARY](#-glossary)
 
 ----
@@ -135,7 +136,7 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
 <i>Fig 5: QP Measurement Problem</i>
 <p>
 
-According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/), 
+According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going in the quantum space, which means that these particles exhhibit the poperty of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). Non-locality which basically means no observed particles seem to have an absolute location. Sub atomic particels are expressed as wave functions ($ \Psi $) ie., only an approxmation of its actualy location can be done pased of mathematical probabilities. 
 
 ## Atomic Structure
 
@@ -159,11 +160,11 @@ flowchart TD
     A --> B
 ```
 
-# 🖥️ Quantum Computing (Finally 🙃)
+# 🐱‍💻 Quantum Computing (Finally 🙃)
 
-Now that we understand the most important prinicples of QC, 
+Now that we have a firm grasp (😁) of the important fundamental of QC, the following are a curated sources for some experimentation
 
-# 🔎 REFERENCES 
+# 🔎 References
 
 Majority of the references will be 
 
