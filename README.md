@@ -44,13 +44,19 @@ Portfolio Website - m0ham3d.com
 
 ----
 # ℹ️ REPO DESCRIPTION
-This repository has been made after my personal interest in Quantum Computing and it rapid development into an easily accessible form. This list will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced. 
+This repository has been made after my personal interest in Quantum Computing. The infommation will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced. 
 
-The scientific concepts mentioned in this repository are an ovesimplification for fast understanding with no deep mathematical proofs, and do not cover the breath of theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
+The scientific concepts mentioned in this repository are an ovesimplification for fast understanding with no deep mathematical proofs, and does not cover the breath of the theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
 
 The goal of the scientfic concepts is to build a foundation in undertanding the origins or *QC*.
 
+<p align = "center">
+<img src = "./infogfx/apfi.gif" width="100">
+</p>
+
+<p align = "center">
 I have also added *🍌TLDR* block to each section, for fast understanding.
+</p>
 
 # 🎓LEARNING RESOURCES OF QC
 
