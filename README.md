@@ -34,6 +34,10 @@ Portfolio Website - m0ham3d.com
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
     - [**Quantum State**](#quantum-state)
+  - [Atomic Structure](#atomic-structure)
+  - [Quantum Particles](#quantum-particles)
+  - [Quantum Mechanics](#quantum-mechanics)
+    - [Wave Functions](#wave-functions)
 - [🐱‍💻 Quantum Computing (Finally 🙃)](#-quantum-computing-finally-)
 - [🔎 References](#-references)
 - [📒 GLOSSARY](#-glossary)
@@ -218,17 +222,10 @@ Planc deduced that the energy of an oscillator having a frequency ($ f $) is giv
 
 $$ E = (n+\frac{1}{2})h $$
 
-$$ f = non-negative \; integer \; (1,2,3...) $$ 
+$$ f = non-negative \, integer \, (1,2,3...) $$ 
 
-$$ h(planc's \;c onstant) = 6.62610^{-34}J.s $$
+$$ h(planc's \, constant) = 6.62610^{-34}J.s $$
 
-```math
-E = (n+\frac{1}{2})h 
-```
-
-f = non-negative \; integer \; (1,2,3...) 
-h(planc's \;c onstant) = 6.62610^{-34}J.s 
-```
 
 ## Atomic Structure
 
