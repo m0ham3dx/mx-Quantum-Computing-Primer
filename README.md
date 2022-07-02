@@ -159,7 +159,9 @@ flowchart TD
     A --> B
 ```
 
+# 🖥️ Quantum Computing (Finally 🙃)
 
+Now that we understand the most important prinicples of QC, 
 
 # 🔎 REFERENCES 
 
