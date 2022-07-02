@@ -226,6 +226,8 @@ $$ f = non-negative \ integer \ (1,2,3...) $$
 
 $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 
+> 🍌 TLDR - The above are the most basic building blocks of Quantum Physics. These properties are exploited in Quantum Computing
+
 
 ## Atomic Structure
 
