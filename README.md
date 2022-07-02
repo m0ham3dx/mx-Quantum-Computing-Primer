@@ -183,6 +183,10 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 
 5. **Quantum Tunneling**   
 
+[![](./infogfx/QuTu.gif)](https://youtu.be/K64Tv2mK5h4)
+<p align="center">
+<i>Fig 8: Quantum Tunneling</i>
+<p>
 
 
 ## Atomic Structure
