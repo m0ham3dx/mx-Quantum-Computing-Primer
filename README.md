@@ -222,9 +222,9 @@ Planc deduced that the energy of an oscillator having a frequency ($ f $) is giv
 
 $$ E = (n+\frac{1}{2})h $$
 
-$$ f = non-negative \, integer \, (1,2,3...) $$ 
+$$ f = non-negative \ integer \ (1,2,3...) $$ 
 
-$$ h(planc's \, constant) = 6.62610^{-34}J.s $$
+$$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 
 
 ## Atomic Structure
