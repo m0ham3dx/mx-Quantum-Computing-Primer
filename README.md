@@ -33,7 +33,6 @@ Portfolio Website - m0ham3d.com
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
-  - [Atomic Structure](#atomic-structure)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
 - [🔎 REFERENCES](#-references)
@@ -88,6 +87,8 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 
 ## Quantum Physics 
 
+[Quantum physics](https://scienceexchange.caltech.edu/topics/quantum-science-explained/quantum-physics) is the study of matter and energy at the most fundamental level. It aims to uncover the properties and behaviors of the very building blocks of nature.
+
 <p align="center">
 <a href="https://bigthink.com/hard-science/the-physics-of-everything-in-one-neat-map/" target="_blank">
 <img src="./infogfx/phyla.png">
@@ -116,14 +117,14 @@ flowchart TD
         C3 o--o C4[Energy<br>Quantization]
     end
 ```
-
-
-
 <p align="center">
 <i>Fig 3: Components of QP</i>
 <p>
 
-## Atomic Structure 
+1. [Particle Wave Duality](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) - One of the most counterintuitive concepts in physics – the idea that quantum objects are complementary, behaving like waves in some situations and like particles in others.
+   
+2. Measurement Problem  - 
+
 
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
 
