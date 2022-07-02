@@ -169,12 +169,12 @@ $$
 
 Where the function $ \Psi $ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$). This wave function indicates that the behavior of a quantum object is [probabilistic](https://quantumatlas.umd.edu/entry/quantum-states/), this means that the wave function encodes all the probabilistic outcomes of the measurement and this *quantum state* equation captures the full range of these possible measurement outcomes.   
 
-[![](./infogfx/wafu.gif)](https://youtu.be/RF7dDt3tVm)
+[![](./infogfx/wafu.gif)](https://youtu.be/RF7dDt3tVmI)
 <p align="center">
 <i>Fig 6.1: 3d Illustration of a wave function</i>
 <p>
 
-4. **👻Entanglement** (also referred to as Spooky Action)
+1. **👻Entanglement** (also referred to as Spooky Action)
 
 [![](./infogfx/QEN.png)](https://www.nasa.gov/feature/jpl/particles-in-love-quantum-mechanics-explored-in-new-study)
 <p align="center">
