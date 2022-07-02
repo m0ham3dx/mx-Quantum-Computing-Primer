@@ -226,6 +226,12 @@ $$ f = non-negative \; integer \; (1,2,3...) $$
 
 $$ h(planc's \;c onstant) = 6.62610^{-34}J.s $$
 
+```math
+E = (n+\frac{1}{2})h 
+f = non-negative \; integer \; (1,2,3...) 
+h(planc's \;c onstant) = 6.62610^{-34}J.s 
+```
+
 ## Atomic Structure
 
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
