@@ -33,7 +33,6 @@ Portfolio Website - m0ham3d.com
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
-  - [$$](#)
   - [Atomic Structure](#atomic-structure)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
@@ -163,9 +162,10 @@ Fundamental law of Quantum Mechanics
 $$
 Quantum State\sim \Psi(x,t)
 $$
-- 
 
-4. **👻Entanglement** (also referred to as Spooky Action)
+
+
+1. **👻Entanglement** (also referred to as Spooky Action)
 
 [![](./infogfx/QEN.png)](https://www.nasa.gov/feature/jpl/particles-in-love-quantum-mechanics-explored-in-new-study)
 <p align="center">
