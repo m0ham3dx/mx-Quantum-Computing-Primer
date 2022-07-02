@@ -67,6 +67,7 @@ N | Source | Url | Synopsis
 7 | 📃Paper | [📃 Quantum States & Superposition](https://www.southampton.ac.uk/~doug/quantum_physics/superposition.pdf) | Mathematical discussion of Quantum States & Superposition
 8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quanutm teunneling effect, ie., quantum particles can pass through objects
 9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
+10 | ▶️Youtube | [▶️Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
 
 
 
@@ -194,6 +195,17 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 <p>
 
 [Quantum Tunnelling is a phenomenen](http://abyss.uoregon.edu/~js/glossary/quantum_tunneling.html) which has no counterpart in classical physics, it states that particles can [penetrate a potential energy barrier](https://opentextbc.ca/universityphysicsv3openstax/chapter/the-quantum-tunneling-of-particles-through-potential-barriers/) with a height greater than the total energy of particles. In simple terms quantum tunnelling is where an atom or a [subatomic particile can appear on the opposite of a barrier](https://www.livescience.com/quantum-tunneling-observed-and-measured.html) that should be impossible for the particle to penetrate. This is an important property in understanding [energy production models of the sun.](https://www.academia.edu/11446310/Quantum_tunnelling_in_the_sun) 
+
+6. **Heisenberg Uncertainity Principle**  
+
+[![](./infogfx/hei.png)](https://physicscatalyst.com/graduation/heisenberg-uncertainty-principle/)
+<p align="center">
+<i>Fig 9: Light microscopy for measuring speed and momentum </i>
+<p>
+
+A principle of the quantum realm referring to the measurement of a particle. As we have discussed so far, that a sub atomic particle displays both a wave and particle like behavior, measuring both the *position* and *speed* becomes a challenge. The Heisenberg Uncertainity Principle states that it is [impossible to know exactly both the position & speed of a particle](https://scienceexchange.caltech.edu/topics/quantum-science-explained/uncertainty-principle). And the more effort is done to measure these properties, the less accurate the results. 
+
+In order to see a particle, light has to reflect of the particle and enter our viewing appartus. But the problem occurs when the photons emitted from the device that tries to measure the particle, these photons(light) transfer energy (momentum) when striking the particle, change its momentum and speed. So this light when reflected of the particle enters the viewing apparatus is already carrying inaccurate and altered information. 
 
 
 ## Atomic Structure
