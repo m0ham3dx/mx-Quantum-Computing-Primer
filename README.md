@@ -34,7 +34,7 @@ Portfolio Website - m0ham3d.com
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
     - [**Quantum State**](#quantum-state)
-  - [Atomic Structure](#atomic-structure)
+  - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
     - [Wave Functions](#wave-functions)
@@ -87,10 +87,10 @@ To understand QC we have first to have understand important concepts of quantum 
 ```mermaid
 flowchart TD
     A[Quantum\nComputing] --> B(Define\nQuantum)
-    A --> C(Quantum\nPhysics)
-    C --> C1(Quantum\nMechanics)
-    A --> D(Atomic\nStructure)
-    D --> D1(Quantum\nParticles)
+    A --> C(Quantum<br>Physics)
+    C --> C1(Quantum<br>Mechanics)
+    A --> D(Standard<br>Model<br>Particle<br>Physics)
+    D --> D1(Quantum<br>Particles)
     C <--> D1
 ```
 <p align="center">
@@ -169,7 +169,7 @@ Superposition | Decoherence
 
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
-Fundamental law of Quantum Mechanics
+Fundamental Law of Quantum Mechanics
 
 $$
 Quantum State\sim \Psi(x,t)
@@ -237,7 +237,7 @@ $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 > 🍌 TLDR - The above are the most basic building blocks of Quantum Physics. These properties are exploited in Quantum Computing
 
 
-## Atomic Structure
+## Standard Model of Particle Physics
 
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
 
@@ -246,7 +246,6 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
 ## Quantum Particles
-
 
 
 
@@ -279,3 +278,4 @@ n | Term | Expansion
 1 | QC | Quantum Computing 
 2 | QP | Quantum Physics 
 3 | QP | Quantum Mechanics
+4 | SMP | Standard Model of Particle Physics
