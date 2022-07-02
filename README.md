@@ -68,8 +68,7 @@ N | Source | Url | Synopsis
 8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quanutm teunneling effect, ie., quantum particles can pass through objects
 9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
 10 | ▶️Youtube | [▶️Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
-
-
+11 | 📰Article | [📰 What Is Planck's Constant, and Why Does the Universe Depend on It?](https://science.howstuffworks.com/dictionary/physics-terms/plancks-constant.htm) | Article discussing the origins and applications of the planc's constant in modern media
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
 
@@ -206,6 +205,15 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 A principle of the quantum realm referring to the measurement of a particle. As we have discussed so far, that a sub atomic particle displays both a wave and particle like behavior, measuring both the *position* and *speed* becomes a challenge. The Heisenberg Uncertainity Principle states that it is [impossible to know exactly both the position & speed of a particle](https://scienceexchange.caltech.edu/topics/quantum-science-explained/uncertainty-principle). And the more effort is done to measure these properties, the less accurate the results. 
 
 In order to see a particle, light has to reflect of the particle and enter our viewing appartus. But the problem occurs when the photons emitted from the device that tries to measure the particle, these photons(light) transfer energy (momentum) when striking the particle, change its momentum and speed. So this light when reflected of the particle enters the viewing apparatus is already carrying inaccurate and altered information. 
+
+7. **Energy Quantization** 
+
+[![](./infogfx/enqu.png)](https://slideplayer.com/slide/10879856/)
+<p align="center">
+<i>Fig 10: Quantization of energy </i>
+<p>
+
+[Energy is quantized in some systems](https://opentextbc.ca/openstaxcollegephysics/chapter/quantization-of-energy/), meaning that the system can have only certain energies and not a continuum of energies, unlike the classical case. This would be like having only certain speeds at which a car can travel because its kinetic energy can have only certain values. We also find that some forms of energy transfer take place with discrete lumps of energy. While most of us are familiar with the quantization of matter into lumps called atoms, molecules, and the like, we are less aware that energy, too, can be quantized. Some of the earliest clues about the necessity of quantum mechanics over classical physics came from the quantization of energy. 
 
 
 ## Atomic Structure
