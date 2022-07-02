@@ -242,6 +242,14 @@ $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
 
 [![](./infogfx/Particles.jpg)](https://www.livescience.com/60900-tetraquark-particle-exists.html)
+<p align="center">
+<i>Fig 11: Standard Model of Particle Physics - Brief </i>
+<p>
+
+[![](./infogfx/SMP.jpg)](https://twitter.com/DominicWalliman/status/1370044170274938886?s=20&t=_6K3BbsgDfXVIvUJf1L1Mg)
+<p align="center">
+<i>Fig 11.1: Standard Model of Particle Physics - Particles, Conservation Laws, Standard Model Interactions, Force Interactions </i>
+<p>
 
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
