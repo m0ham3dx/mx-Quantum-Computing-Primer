@@ -33,6 +33,7 @@ Portfolio Website - m0ham3d.com
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
+  - [Atomic Structure](#atomic-structure)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
 - [🔎 REFERENCES](#-references)
@@ -134,7 +135,9 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
 <i>Fig 5: QP Measurement Problem</i>
 <p>
 
+According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/), 
 
+## Atomic Structure
 
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
 
