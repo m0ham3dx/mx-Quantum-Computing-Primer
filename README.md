@@ -51,7 +51,9 @@ The scientific concepts mentioned in this repository are an ovesimplification fo
 The goal of the scientfic concepts is to build a foundation in undertanding the origins or *QC*.
 
 <p align = "center">
-<img src = "./infogfx/apfi.gif" width="100">
+<a href="https://twitter.com/m0ham3dxx" target="_blank">
+<img src = "./infogfx/apfi.gif" width="300">
+</a>
 </p>
 
 <p align = "center">
