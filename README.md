@@ -92,8 +92,10 @@ Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscent
 <a href="https://bigthink.com/hard-science/the-physics-of-everything-in-one-neat-map/" target="_blank">
 <img src="./infogfx/phyla.png">
 </a>
-<i>Fig2: Current lanscape of understanding of physics</i>
+<i>Fig 2: Current landscape of understanding of physics</i>
 </p>
+
+Fig 2 - Illustrates the evolution of our understanding of physics. Until more recent times due to the advancement of experimental technologies, *Quantum Theories* are only now being observed & proved. Please note that their are active efforts of utilizing the Quantum Phenomenon for computing purposes, but our general understanding of it is quite poor
 
 ```mermaid
 flowchart TD
@@ -114,6 +116,9 @@ flowchart TD
         C3 o--o C4[Energy<br>Quantization]
     end
 ```
+
+
+
 <p align="center">
 <i>Fig 3: Components of QP</i>
 <p>
