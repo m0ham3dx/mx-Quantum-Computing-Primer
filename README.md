@@ -136,7 +136,9 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
 <i>Fig 5: QP Measurement Problem</i>
 <p>
 
-According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going in the quantum space, which means that these particles exhhibit the poperty of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). Non-locality which basically means no observed particles seem to have an absolute location. Sub atomic particels are expressed as wave functions ($ \Psi $) ie., only an approxmation of its actualy location can be done pased of mathematical probabilities. 
+According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going on in the quantum space, which means that these particles exhhibit the property of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). *Non-locality which basically means no observed particles have an asbolution location in space.* Sub atomic particles are expressed as [wave functions ($ \Psi $)](https://www.quantumphysicslady.org/glossary/wave-function/) ie., only an approxmation of its actualy location can be done based of mathematical probabilities and the exact location of the particle is unknown. The **Measurement Problem**
+states that these wave functions abruptly collapse into a particle in a point of space in time, whose beahvior is unknown
+
 
 ## Atomic Structure
 
