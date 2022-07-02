@@ -45,7 +45,7 @@ Portfolio Website - m0ham3d.com
 # ℹ️ REPO DESCRIPTION
 This repository has been made after my personal interest in Quantum Computing and it rapid development into an easily accessible form. This list will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced. 
 
-The scientific concepts mentioned in this repository are simplified definitions, and do not cover the breath of theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
+The scientific concepts mentioned in this repository are an ovesimplification for fast understanding with no deep mathematical proofs, and do not cover the breath of theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
 
 The goal of the scientfic concepts is to build a foundation in undertanding the origins or *QC*.
 
@@ -143,8 +143,13 @@ According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-y
 
 The **Measurement Problem** states that these wave functions abruptly collapse into a particle in a point of space in time during observation, whose beahvior is unknown.
 
-1. **Superposition**
- 
+3. **Superposition**
+
+Superposition | Decoherence 
+|:--:|:--:|
+[![](./infogfx/QSP1.png)](https://youtu.be/7B1llCxVdkE) | [![](./infogfx/QSP2.png)](https://youtu.be/7B1llCxVdkE)
+
+*Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured. 
 
 
 
