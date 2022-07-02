@@ -33,6 +33,7 @@ Portfolio Website - m0ham3d.com
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
+  - [$$](#)
   - [Atomic Structure](#atomic-structure)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
@@ -155,11 +156,14 @@ Superposition | Decoherence
 
 *Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured.
 
-**Quantum State** 
+[**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
-```math
+Fundamental law of Quantum Mechanics
+
+$$
 Quantum State\sim \Psi(x,t)
-```
+$$
+- 
 
 4. **👻Entanglement** (also referred to as Spooky Action)
 
