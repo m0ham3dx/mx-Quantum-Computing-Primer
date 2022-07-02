@@ -215,6 +215,15 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 [Energy is quantized in some systems](https://opentextbc.ca/openstaxcollegephysics/chapter/quantization-of-energy/), meaning that the system can have only certain energies and not a continuum of energies, unlike the classical case. This would be like having only certain speeds at which a car can travel because its kinetic energy can have only certain values. We also find that some forms of energy transfer take place with discrete lumps of energy. While most of us are familiar with the quantization of matter into lumps called atoms, molecules, and the like, we are less aware that energy, too, can be quantized. Some of the earliest clues about the necessity of quantum mechanics over classical physics came from the quantization of energy. 
 
+[Max Planc](https://www.nobelprize.org/prizes/physics/1918/planck/biographical/) used that idea that atoms and molecules (quantum realm) act like oscillators to absorb and emit radiation. ie., the energy within these particles are not constant, but due to constant absorbtion and emission the energy is *quantized*. He is also credited for [discovering constant proprtionality](https://illuminating.science/what-is-plancks-constant/) which is instrumental in calculation of physical quantities in the quantum mechanics. This proptionality is referred to as the **planc's constant**.
+
+Planc deduced that the energy of an oscillator having a frequency ($ f $) is given by the following equation
+
+$$
+E = (n+\frac{1}{2})hf\\\\\\n = non-negative integer(1,2,3...) \\ h(planc's constant) = 6.62610^{-34}J.s
+$$
+
+
 
 ## Atomic Structure
 
