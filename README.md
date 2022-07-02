@@ -124,6 +124,11 @@ flowchart TD
 1. [Particle Wave Duality](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) - One of the most counterintuitive concepts in physics – the idea that quantum objects are complementary, behaving like waves in some situations and like particles in others.
    
 2. Measurement Problem  - 
+[![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
+<p align="center">
+<i>Fig 3: QP Measurement Problem</i>
+<p>
+
 
 
 The following diagram is an illustration of the [Standard Model](https://simple.wikipedia.org/wiki/Standard_Model) of elementary particles as described by the [particle theory in physics.](https://www.le.ac.uk/se/centres/sci/selfstudy/particle01.html)
