@@ -123,22 +123,25 @@ flowchart TD
 <i>Fig 3: Components of QP</i>
 <p>
 
-1. [Particle Wave Duality](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) 
+1. [**Particle Wave Duality**](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) 
 [![](./infogfx/pawd.png)](https://www.electrical4u.com/wave-particle-duality/)
 <p align="center">
 <i>Fig 4: Wave Particle Duality</i>
 <p>
 One of the most counterintuitive concepts in physics – the idea that quantum objects are complementary, behaving like waves in some situations and like particles in others.
    
-2. Measurement Problem  - 
+2. **Measurement Problem**  - 
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
 <i>Fig 5: QP Measurement Problem</i>
 <p>
 
-According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going on in the quantum space, which means that these particles exhhibit the property of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). *Non-locality which basically means, no observed particles have an asbolute location in space.* Sub atomic particles are expressed as [wave functions](https://www.quantumphysicslady.org/glossary/wave-function/) ($ \Psi $) ie., only an approxmation of its actual location can be done based on mathematical probabilities and the exact location of the particle is unknown.
+According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going on in the quantum space, which means that these particles exhibit the property of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). *Non-locality which basically means, no observed particles have an absolute location in space.* Sub atomic particles are expressed as [wave functions](https://www.quantumphysicslady.org/glossary/wave-function/) ($ \Psi $) ie., only an approxmation of its actual location can be done based on mathematical probabilities and the exact location of the particle is unknown.
 
 The **Measurement Problem** states that these wave functions abruptly collapse into a particle in a point of space in time during observation, whose beahvior is unknown.
+
+3. Superposition 
+
 
 
 ## Atomic Structure
