@@ -147,6 +147,10 @@ flowchart TD
 <p>
 One of the most counterintuitive concepts in physics – the idea that quantum objects are complementary, behaving like waves in some situations and like particles in others.
    
+These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all a wave function is associated wit all particles. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation has proposed by *de Broglie* , which is referred to as *de Broglie's* equation.
+
+
+
 2. **Measurement Problem**  - 
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
@@ -232,7 +236,7 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 Planc's postulate for the energy state ($E$ $_{n}$) of a quantum mechanical simple harmonic oscillator with the following equation
 
-$$  Plancs \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Osciallator  $$
+$$  Planck's \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Osciallator  $$
 
 $$ E_{n}=(n+\frac{1}{2})hv $$
 
@@ -264,6 +268,7 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
 ## Quantum Particles
+
 
 
 
