@@ -34,7 +34,14 @@ Portfolio Website - m0ham3d.com
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
+    - [**Particle Wave Duality**](#particle-wave-duality)
+    - [**Measurement Problem**  -](#measurement-problem---)
+    - [**Superposition**](#superposition)
     - [**Quantum State**](#quantum-state)
+    - [**👻Entanglement** (also referred to as Spooky Action)](#entanglement-also-referred-to-as-spooky-action)
+    - [**Quantum Tunneling**](#quantum-tunneling)
+    - [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
+    - [**Energy Quantization**](#energy-quantization)
   - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
@@ -143,7 +150,7 @@ flowchart TD
 <i>Fig 3: Components of QP</i>
 <p>
 
-1. [**Particle Wave Duality**](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) 
+### [**Particle Wave Duality**](https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time/) 
 [![](./infogfx/pawd.png)](https://www.electrical4u.com/wave-particle-duality/)
 <p align="center">
 <i>Fig 4: Wave Particle Duality</i>
@@ -162,7 +169,7 @@ $$h=planck's \ constant$$
 
 $$m = particle \ mass \ moving \ at \ velocity \ v$$
 
-2. **Measurement Problem**  - 
+### **Measurement Problem**  - 
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
 <i>Fig 5: QP Measurement Problem</i>
@@ -172,7 +179,7 @@ According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-y
 
 The **Measurement Problem** states that these wave functions abruptly collapse into a particle in a point of space in time during observation, whose beahvior is unknown.
 
-3. **Superposition**
+### **Superposition**
 
 Superposition | Decoherence 
 |:--:|:--:|
@@ -222,7 +229,7 @@ Where the function $\Psi$ is the *complex function* which describes *wave-partic
 <i>Fig 6.1: 3d Illustration of a wave function</i>
 <p>
 
-1. **👻Entanglement** (also referred to as Spooky Action)
+### **👻Entanglement** (also referred to as Spooky Action)
 
 [![](./infogfx/QEN.png)](https://www.nasa.gov/feature/jpl/particles-in-love-quantum-mechanics-explored-in-new-study)
 <p align="center">
@@ -234,7 +241,7 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
  These two particles share a common unified [quantum state](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf), such that any observation of one of these particles will provide information aboth the other entangled particles. And any action to one of these particles will invariably impact the others in the entangled system. 
 
 
-5. **Quantum Tunneling**   
+### **Quantum Tunneling**   
 
 [![](./infogfx/QuTu.gif)](https://youtu.be/K64Tv2mK5h4)
 <p align="center">
@@ -243,7 +250,7 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 
 [Quantum Tunnelling is a phenomenen](http://abyss.uoregon.edu/~js/glossary/quantum_tunneling.html) which has no counterpart in classical physics, it states that particles can [penetrate a potential energy barrier](https://opentextbc.ca/universityphysicsv3openstax/chapter/the-quantum-tunneling-of-particles-through-potential-barriers/) with a height greater than the total energy of particles. In simple terms quantum tunnelling is where an atom or a [subatomic particile can appear on the opposite of a barrier](https://www.livescience.com/quantum-tunneling-observed-and-measured.html) that should be impossible for the particle to penetrate. This is an important property in understanding [energy production models of the sun.](https://www.academia.edu/11446310/Quantum_tunnelling_in_the_sun) 
 
-6. **Heisenberg Uncertainity Principle**  
+### **Heisenberg Uncertainity Principle**  
 
 [![](./infogfx/hei.png)](https://physicscatalyst.com/graduation/heisenberg-uncertainty-principle/)
 <p align="center">
@@ -266,7 +273,7 @@ $$\Delta p=Change \ in \ momentum $$
 
 $$h=planck \ constant$$
 
-7. **Energy Quantization** 
+### **Energy Quantization** 
 
 [![](./infogfx/enqu.png)](https://slideplayer.com/slide/10879856/)
 <p align="center">
