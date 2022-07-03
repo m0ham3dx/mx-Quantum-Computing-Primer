@@ -149,17 +149,11 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
    
 These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all a wave function is associated wit all particles. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation has proposed by *de Broglie* , which is referred to as *de Broglie's* equation.
 
-$$
-de \ Broglie's \ Equation
-$$
+$$de \ Broglie's \ Equation$$
 
-$$
-\lambda =  \frac{h}{mv}
-$$
+$$\lambda =  \frac{h}{mv}$$
 
-$$
-\lambda=wavelength \newline h=planck's \ constant \newline m = particle \ mass \ moving \ at \ velocity \ v
-$$
+$$\lambda=wavelength \newline h=planck's \ constant \newline m = particle \ mass \ moving \ at \ velocity \ v$$
 
 2. **Measurement Problem**  - 
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
