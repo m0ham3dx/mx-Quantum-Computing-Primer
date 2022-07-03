@@ -252,7 +252,7 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 Planc's postulate for the energy state ($E$ $_{n}$) of a quantum mechanical simple harmonic oscillator with the following equation
 
-$$  Planck's \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Osciallator  $$
+$$ 🧮 Planck's \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Oscillator  $$
 
 $$ E_{n}=(n+\frac{1}{2})hv $$
 
