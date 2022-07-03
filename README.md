@@ -296,6 +296,13 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 <i>Fig 11.1: Standard Model of Particle Physics - Particles, Conservation Laws, Standard Model Interactions, Force Interactions </i>
 <p>
 
+[The Standard Model of Particle Physics](https://www.energy.gov/science/doe-explainsthe-standard-model-particle-physics) is scientists current best theory to describe the most basic building blocks of the universe. It explains how particles called quarks (which make up protons and neutrons) and leptons (which include electrons) make up all known matter. It also explains how force carrying particles, which belong to a broader group of bosons, influence the quarks and leptons. This standard model is represented by the [*Standard Model Equation*](https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation)
+
+[![](./infogfx/smpg.gif)](https://youtu.be/Unl1jXFnzgo)
+<p align="center">
+<i>Fig 11.2: Brief explanation of the *Standard Model Equation* </i>
+<p>
+
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
 ## Quantum Particles
