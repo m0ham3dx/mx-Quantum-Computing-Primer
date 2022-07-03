@@ -343,7 +343,7 @@ flowchart LR
 
     %% Spin Number
     A11 --> |Spin<br>Quantum<br>Number| A111[s = '+1/2' <br> s = -1/2'<br> s = + or - 1/2]
-    A21 --> |Spin<br>Quantum<br>Number| A211[s = +1 <br> s = -1 <br> s = 0 <br> muliples of +/i -1]
+    A21 --> |Spin<br>Quantum<br>Number| A211[s = +1 <br> s = -1 <br> s = 0 <br> muliples of +/- -1]
 
     %% Box Examples
     A111 --> a1x[Leptons, <br> Quarks, <br> Electrons, <br> Protons, <br> Neutrons]
