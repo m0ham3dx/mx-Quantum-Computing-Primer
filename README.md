@@ -153,7 +153,7 @@ $$de \ Broglie's \ Equation$$
 
 $$\lambda =  \frac{h}{mv}$$
 
-$$\lambda=wavelength$$ 
+$$\lambda=wavelength \ matterwave$$ 
 
 $$h=planck's \ constant$$ 
 
