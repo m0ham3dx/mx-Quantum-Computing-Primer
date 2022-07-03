@@ -363,6 +363,8 @@ flowchart LR
 
 The [fundamental](https://particleadventure.org/fermibos.html) building blocks of the universe are $fermions$ and force carrier particles $bosons$. There are [other](https://www.chegg.com/learn/physics/introduction-to-physics/hadrons) [particles](https://www.fizzics.org/gauge-bosons/) which may or may not [exist](https://www.fizzics.org/fermions-quarks-leptons-and-hadrons-the-building-blocks-of-our-universe/) or are highly unstable. 
 
+> 🍌 Every thing is made up of smaller units, called elements of matter, these inturn are further made up of quantum particles. Many particles exist naturally, and some exist only in certain conditions. 
+
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
 Defined as a sub field of physics that describes interaction between particles of the sub atomic realm. *Sub Atomic* referring to the particles that form the atoms, and those particles that form the atoms.
