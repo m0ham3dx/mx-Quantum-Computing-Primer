@@ -191,7 +191,7 @@ Superposition principle equation states that a *statefunction*($\Psi$) can be ex
 
 $$🧮Superposition \ Principle \ - Discrete  \ Case$$
 
-$$|\Psi\rangle=\sum_{n=1}^{\infty}|{b}_{n}\varphi_{n}\rangle$$
+$$|\Psi\rangle=\sum_{n=1}^{\infty}|b_{n}\varphi_{n}\rangle$$
 
 $$where \ the \ coefficients(b_{n}) = functions \ of \ time(t) and \ given  \ by : $$ 
 
