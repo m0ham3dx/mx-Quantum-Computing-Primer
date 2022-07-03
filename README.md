@@ -35,7 +35,7 @@ Portfolio Website - m0ham3d.com
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
     - [**Particle Wave Duality**](#particle-wave-duality)
-    - [**Measurement Problem**  -](#measurement-problem---)
+    - [**Measurement Problem**](#measurement-problem)
     - [**Superposition**](#superposition)
     - [**Quantum State**](#quantum-state)
     - [**👻Entanglement** (also referred to as Spooky Action)](#entanglement-also-referred-to-as-spooky-action)
@@ -169,7 +169,7 @@ $$h=planck's \ constant$$
 
 $$m = particle \ mass \ moving \ at \ velocity \ v$$
 
-### **Measurement Problem**  - 
+### **Measurement Problem**
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
 <i>Fig 5: QP Measurement Problem</i>
