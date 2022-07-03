@@ -284,6 +284,11 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 Defined as a sub field of physics that describes interaction between particles of the sub atomic realm. *Sub Atomic* referring to the particles that form the atoms, and those particles that form the atoms.
 
+To Do Items 
+- [ ] Describe hilbert space 
+- [ ] Describe Schrodinger equation
+- [ ] Describe principles of Quantum Mecahnics 
+
 ### Wave Functions
 
 
