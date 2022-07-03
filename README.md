@@ -361,7 +361,7 @@ flowchart LR
     a1x --> a1x1[Including<br>Anti-Particles]
 ```
 
-The [fundamental](https://particleadventure.org/fermibos.html) building blocks of the universe are $fermions$ and force carrier particles Bosons. There are [other](https://www.chegg.com/learn/physics/introduction-to-physics/hadrons) [particles](https://www.fizzics.org/gauge-bosons/) which may or may not [exist](https://www.fizzics.org/fermions-quarks-leptons-and-hadrons-the-building-blocks-of-our-universe/) or are highly unstable. 
+The [fundamental](https://particleadventure.org/fermibos.html) building blocks of the universe are $fermions$ and force carrier particles $bosons$. There are [other](https://www.chegg.com/learn/physics/introduction-to-physics/hadrons) [particles](https://www.fizzics.org/gauge-bosons/) which may or may not [exist](https://www.fizzics.org/fermions-quarks-leptons-and-hadrons-the-building-blocks-of-our-universe/) or are highly unstable. 
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
