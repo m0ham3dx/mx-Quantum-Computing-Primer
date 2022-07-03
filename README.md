@@ -152,9 +152,11 @@ These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/
 $$
 de \ Broglie's \ Equation
 $$
+
 $$
 \lambda =  \frac{h}{mv}
 $$
+
 $$
 \lambda=wavelength \newline h=planck's \ constant \newline m = particle \ mass \ moving \ at \ velocity \ v
 $$
