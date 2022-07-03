@@ -230,7 +230,7 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 [Max Planc](https://www.nobelprize.org/prizes/physics/1918/planck/biographical/) used that idea that atoms and molecules (quantum realm) act like oscillators to absorb and emit radiation. ie., the energy within these particles are not constant, but due to constant absorbtion and emission the energy is *quantized*. He is also credited for [discovering constant proprtionality](https://illuminating.science/what-is-plancks-constant/) which is instrumental in calculation of physical quantities in the quantum mechanics. This proptionality is referred to as the **planc's constant**.
 
-Planc's postulate for the energy state $E_{n_}$ of a quantum mechanical simple harmonic oscillator with the following equation
+Planc's postulate for the energy state $ E_{n_} $ of a quantum mechanical simple harmonic oscillator with the following equation
 
 $$  Plancs \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Osciallator  $$
 
