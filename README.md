@@ -231,9 +231,14 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 Planc deduced that the energy of an oscillator having a frequency ($ f $) is given by the following equation
 
-$$ Planc's \ Radiation  \ Law  $$
+$$ Planc's \ Radiation  \ Law $$
+
 $$ E = (n+\frac{1}{2})h $$
+
+$$ E = Energy \ State $$
+
 $$ f = non-negative \ integer \ (1,2,3...) $$ 
+
 $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 
 > 🍌 TLDR - The above are the most basic building blocks of Quantum Physics. These properties are exploited in Quantum Computing
