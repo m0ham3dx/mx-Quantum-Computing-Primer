@@ -334,21 +334,34 @@ The spin quantum number of **bosons** can be ($s = +1$), ($s = −1$), ($s = 0$)
 
 ```mermaid
 flowchart LR
-    A[Quantum<br>Particles] --> A1[Fermions]
-    A --> A2[Bosons]
+    A[Quantum<br>Particles] --> A1[Main Category <br> Fermions]
+    A --> A2[Main Category<br>Bosons]
+    A --> |Essentially<br>Fermions|A3[Hadrons <br> Combination of <br> Quarks & Antiquarks]
+
+    %% Fermions 
+    A1 --> |Held <br> together|Ab1[Gauge<br>Bosons <br> force carrier particles]
 
     %% Spin
     A1 --> |Spin|A11[Spin = multiples of '1/2']
     A2 --> |Spin|A21[Spin = multiples of '1']
+    A3 --> |Spin|A31[Spin = 1/2 multiple of <br> h=h/2pi]
 
     %% Spin Number
     A11 --> |Spin<br>Quantum<br>Number| A111[s = '+1/2' <br> s = -1/2'<br> s = + or - 1/2]
-    A21 --> |Spin<br>Quantum<br>Number| A211[s = +1 <br> s = -1 <br> s = 0 <br> muliples of +/- -1]
+    A21 --> |Spin<br>Quantum<br>Number| A211[s = +1 <br> s = -1 <br> s = 0 <br> multople of + or i]
+    A31 --> A3111[Mesons]
+    A31 --> A3111b[Baryons]
+    A3111b --> A32[Nucleons]
+    A3111b --> A33[Hyperons]
 
     %% Box Examples
     A111 --> a1x[Leptons, <br> Quarks, <br> Electrons, <br> Protons, <br> Neutrons]
     A211 --> a2x[Force Carrier Particles <br> Mesons]
+
+    a1x --> a1x1[Including<br>Anti-Particles]
 ```
+
+The [fundamental](https://particleadventure.org/fermibos.html) building blocks of the universe are $fermions$ and force carrier particles Bosons. There are [other](https://www.chegg.com/learn/physics/introduction-to-physics/hadrons) [particles](https://www.fizzics.org/gauge-bosons/) which may or may not [exist](https://www.fizzics.org/fermions-quarks-leptons-and-hadrons-the-building-blocks-of-our-universe/) or are highly unstable. 
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
