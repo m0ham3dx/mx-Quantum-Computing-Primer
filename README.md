@@ -149,7 +149,7 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
    
 These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all a wave function is associated wit all particles. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation has proposed by *de Broglie* , which is referred to as *de Broglie's* equation.
 
-$$de \ Broglie's \ Equation$$
+$$🧮de \ Broglie's \ Equation$$
 
 $$\lambda =  \frac{h}{mv}$$
 
@@ -191,6 +191,8 @@ The superposition principle is the idea that a system is in all possible states 
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
 Fundamental Law of Quantum Mechanics
+
+$$🧮Quantum \ State \ Equation $$
 
 $$ Quantum\ State\sim \Psi(x,t) $$
 
