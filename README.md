@@ -300,7 +300,7 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 [![](./infogfx/smpg.gif)](https://youtu.be/Unl1jXFnzgo)
 <p align="center">
-<i>Fig 11.2: Brief explanation of the *Standard Model Equation* </i>
+<i>Fig 11.2: Brief explanation of the <u>Standard Model Equation</u> </i>
 <p>
 
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
