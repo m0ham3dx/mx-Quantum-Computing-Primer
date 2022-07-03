@@ -187,7 +187,17 @@ This principle states that a system (such as a group of quantum particles) exist
 
 The superposition principle is the idea that a system is in all possible states at the same time, until it is measured. After measurement it then falls to one of the basis states that form the superposition, thus destroying the original configuration. The superposition principle explains the "quantum weirdness" observed with many experiments.
 
-Superposition principle equation states that a *statefunction*($\Psi$) can be expanded as a linear combination of the normalized [*eigenstates*($ \phi _{n}$)](https://web.physics.wustl.edu/alford/physics/essentials.pdf) 
+Superposition principle equation states that a *statefunction*($\Psi$) can be expanded as a linear combination of the normalized [*eigenstates*](https://web.physics.wustl.edu/alford/physics/essentials.pdf) ($\phi _{n}$) of a particular *operator* that constitute a basis of the space occupied by ($\Psi$). For the discrete case
+
+$$🧮Superposition \ Principle \ - Discrete  \ Case$$
+
+$$|\Psi\rangle=\sum_{n=1}^{\infty}|{b}_{n}\varphi_{n}\rangle$$
+
+$$where \ the \ coefficients(b_{n}) = functions \ of \ time(t) and \ given  \ by : $$ 
+
+$$ b_{n}=\langle\varphi_{n}|\Psi\rangle $$
+
+$$ which \ is \ the  \ projetion  \ of (\Psi) \ onto \ the  \ \textbf{eigenvector}(\varphi_{n})$$
 
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
@@ -299,6 +309,7 @@ To Do Items
 - [ ] Describe hilbert space 
 - [ ] Describe Schrodinger equation
 - [ ] Describe principles of Quantum Mecahnics 
+- [ ] Talks about EigenStates
 
 ### Wave Functions
 
