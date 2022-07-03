@@ -326,7 +326,11 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 ## Quantum Particles
 
+All matter in the universe can be subdivided into two classes based on their *spin*.[There are two classes of quantum particles](https://www.sciencedirect.com/topics/mathematics/quantum-particle), those with a spin multiple of one-half, called fermions, and those with a spin multiple of one, called **bosons**. 
 
+The spin quantum number of **fermions** can be ($s = +\frac{1}{2}$), ($s =-\frac{1}{2}$), or an odd multiple of ($s = ± \frac{1}{2}$). Electrons, protons, and neutrons are fermions. 
+
+The spin quantum number of **bosons** can be ($s = +1$), ($s = −1$), ($s = 0$), or a multiple of ($w = ±1$).
 
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
