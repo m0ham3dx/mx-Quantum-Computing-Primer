@@ -80,6 +80,7 @@ N | Source | Url | Synopsis
 11 | 📰Article | [📰 What Is Planck's Constant, and Why Does the Universe Depend on It?](https://science.howstuffworks.com/dictionary/physics-terms/plancks-constant.htm) | Article discussing the origins and applications of the planc's constant in modern media
 12 | ▶️Youtube | [▶️Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
 13 | ▶️Youtube | [▶️Quantum Entanglement: Spooky Action at a Distance](https://youtu.be/JFozGfxmi8A) | Explanation of Quantum Entanglement from [FermiLab](https://www.fnal.gov/) 
+14 | ▶️Youtube | [▶️The Most Successful Scientific Theory Ever: The Standard Model](https://youtu.be/Unl1jXFnzgo) | Description of the standard model of particle physics - which are the fundamental building blocks of everything in the universe
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
 
