@@ -332,6 +332,23 @@ The spin quantum number of **fermions** can be ($s = +\frac{1}{2}$), ($s =-\frac
 
 The spin quantum number of **bosons** can be ($s = +1$), ($s = −1$), ($s = 0$), or a multiple of ($w = ±1$).
 
+```mermaid
+flowchart LR
+    A[Quantum<br>Particles] --> A1[Fermions]
+    A --> A2[Bosons]
+
+    %% Spin
+    A1 --> |Spin|A11[Spin = multiples of '1/2']
+    A2 --> |Spin|A21[Spin = multiples of '1']
+
+    %% Spin Number
+    A11 --> |Spin<br>Quantum<br>Number| A111[s = '+1/2' <br> s = -1/2'<br> s = + or - 1/2]
+    A21 --> |Spin<br>Quantum<br>Number| A211[s = +1 <br> s = -1 <br> s = 0 <br> multople of + or i]
+
+    %% Box Examples
+    A111 --> a1x[Leptons, <br> Quarks, <br> Electrons, <br> Protons, <br> Neutrons]
+    A211 --> a2x[Force Carrier Particles <br> Mesons]
+```
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
