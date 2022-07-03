@@ -171,9 +171,11 @@ Superposition | Decoherence
 
 Fundamental Law of Quantum Mechanics
 
-$$
-Quantum State\sim \Psi(x,t)
-$$
+$$ Quantum\ State\sim \Psi(x,t) $$
+
+$$ \Psi\ = \ complex function $$
+
+$$ x = coordinates \\ t = time $$
 
 Where the function $ \Psi $ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$). This wave function indicates that the behavior of a quantum object is [probabilistic](https://quantumatlas.umd.edu/entry/quantum-states/), this means that the wave function encodes all the probabilistic outcomes of the measurement and this *quantum state* equation captures the full range of these possible measurement outcomes.   
 
