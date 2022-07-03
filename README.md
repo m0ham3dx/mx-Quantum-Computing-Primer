@@ -78,6 +78,7 @@ N | Source | Url | Synopsis
 9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
 10 | ▶️Youtube | [▶️Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
 11 | 📰Article | [📰 What Is Planck's Constant, and Why Does the Universe Depend on It?](https://science.howstuffworks.com/dictionary/physics-terms/plancks-constant.htm) | Article discussing the origins and applications of the planc's constant in modern media
+12 | ▶️Youtube | [▶️Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
 
@@ -186,7 +187,7 @@ This principle states that a system (such as a group of quantum particles) exist
 
 The superposition principle is the idea that a system is in all possible states at the same time, until it is measured. After measurement it then falls to one of the basis states that form the superposition, thus destroying the original configuration. The superposition principle explains the "quantum weirdness" observed with many experiments.
 
-
+Superposition principle equation states that a *statefunction*($\Psi$) can be expanded as a linear combination of the normalized [*eigenstates*($ \phi _{n}$)](https://web.physics.wustl.edu/alford/physics/essentials.pdf) 
 
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
