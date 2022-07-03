@@ -153,7 +153,7 @@ $$de \ Broglie's \ Equation$$
 
 $$\lambda =  \frac{h}{mv}$$
 
-$$\lambda=wavelength \newline h=planck's \ constant \newline m = particle \ mass \ moving \ at \ velocity \ v$$
+$$\lambda=wavelength \break h=planck's \ constant \hfill m = particle \ mass \ moving \ at \ velocity \ v$$
 
 2. **Measurement Problem**  - 
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
