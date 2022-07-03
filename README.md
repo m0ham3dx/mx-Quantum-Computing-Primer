@@ -154,7 +154,9 @@ $$de \ Broglie's \ Equation$$
 $$\lambda =  \frac{h}{mv}$$
 
 $$\lambda=wavelength$$ 
+
 $$h=planck's \ constant$$ 
+
 $$m = particle \ mass \ moving \ at \ velocity \ v$$
 
 2. **Measurement Problem**  - 
