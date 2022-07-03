@@ -180,6 +180,14 @@ Superposition | Decoherence
 
 *Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured.
 
+[*Superposition Principle*](http://physics.gmu.edu/~dmaria/590%20Web%20Page/public_html/qm_topics/superposition/superposition.html)
+
+This principle states that a system (such as a group of quantum particles) exist in all *possible states at the same time*, only after measurement it falls to one of the *states* that form the superposition. This destroys its original configuration
+
+The superposition principle is the idea that a system is in all possible states at the same time, until it is measured. After measurement it then falls to one of the basis states that form the superposition, thus destroying the original configuration. The superposition principle explains the "quantum weirdness" observed with many experiments.
+
+
+
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
 Fundamental Law of Quantum Mechanics
