@@ -330,7 +330,7 @@ All matter in the universe can be subdivided into two classes based on their *sp
 
 The spin quantum number of **fermions** can be ($s = +\frac{1}{2}$), ($s =-\frac{1}{2}$), or an odd multiple of ($s = ± \frac{1}{2}$). Electrons, protons, and neutrons are fermions. 
 
-The spin quantum number of **bosons** can be ($s = +1$), ($s = −1$), ($s = 0$), or a multiple of ($w = ±1$).
+The spin quantum number of **bosons** can be ($s = +1$), ($s = −1$), ($s = 0$), or a multiple of ($s = ±1$).
 
 ```mermaid
 flowchart LR
