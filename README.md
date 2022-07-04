@@ -52,6 +52,32 @@ Portfolio Website - m0ham3d.com
 
 ----
 # ℹ️ REPO DESCRIPTION
+
+This repository contain the following information regarding $Quantum \ Computing$ .
+
+```mermaid
+graph TD
+    A[Quantum<br>Computing<br>Repo] --> A1[Learning<br>Resources]
+    A --> |Low<br>Math<br>Proofs|A2[Quantum<br>Theory]
+    A --> A3[Quantum<br>Computing]
+
+    %% A1 Boxes 
+    A1 --> A11[Quantum<br>Physics+Mecahnics]
+    A1 --> A12[Quantum<br>Computing]
+
+    %% A2 Boxes 
+    A2 --> A21[Brief<br>Quantum<br>Physics]
+    A2 --> A22[Brief<br>Quantum<br>Mechanics]
+
+    %% A3 Boxes 
+    A3[Quantum<br>Computing] --> A31[Overview]
+    A3 --> A32[QC Tools]
+    A32 --> A321[Packages<br>Tools<br>Test<br> maybe...]
+```
+
+
+
+
 This repository has been made after my personal interest in Quantum Computing. The infommation will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced. 
 
 The scientific concepts mentioned in this repository are an ovesimplification for fast understanding with no deep mathematical proofs, and does not cover the breath of the theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
@@ -60,7 +86,7 @@ The goal of the scientfic concepts is to build a foundation in undertanding the 
 
 <p align = "center">
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
-<img src = "./infogfx/apfi.gif" width="300">
+<img src = "./infogfx/apfi.gif" width="100">
 </a>
 </p>
 
