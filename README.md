@@ -75,15 +75,11 @@ graph TD
     A32 --> A321[Packages<br>Tools<br>Test<br> maybe...]
 ```
 
+> ⚠️ Information contained is subject to my own interpretation, which has been kept to a minimum. The bulk of the information has been referenced for known sources. I cannot guarantee 100% accuracy.
 
+> 👉 Many concepts contained are an oversimplification of very deep physics and quantum physics/mechanics. Where example of the usage of mathematical equations are lacking. I may come back to that at  later time.
 
-
-This repository has been made after my personal interest in Quantum Computing. The infommation will not be exhaustive and will perpetually be a WIP. I cannot guarantee that it will be free form errors. But the actual content will be referenced. 
-
-The scientific concepts mentioned in this repository are an ovesimplification for fast understanding with no deep mathematical proofs, and does not cover the breath of the theoretical knowledge that defines its existence. It is left to the reader to further explore these areas. I have ensured to included **hyperlinks** in such situations.
-
-The goal of the scientfic concepts is to build a foundation in undertanding the origins or *QC*.
-
+> 🥅 The goal is understand enough to start using the various quantum 
 <p align = "center">
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
 <img src = "./infogfx/apfi.gif" width="100">
