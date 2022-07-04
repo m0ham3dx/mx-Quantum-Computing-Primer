@@ -30,7 +30,9 @@ Portfolio Website - m0ham3d.com
 # 🤌 TOC
 - [🤌 TOC](#-toc)
 - [ℹ️ REPO DESCRIPTION](#ℹ️-repo-description)
-- [🎓LEARNING RESOURCES OF QC](#learning-resources-of-qc)
+- [🎓LEARNING RESOURCES](#learning-resources)
+  - [Quantum Theory](#quantum-theory)
+  - [Quantum Computing](#quantum-computing)
 - [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
   - [Definition of `Quantum`](#definition-of-quantum)
   - [Quantum Physics](#quantum-physics)
@@ -91,9 +93,11 @@ graph TD
 I have also added <b>🍌TLDR</b> block to each section, for fast understanding 😉.
 </p>
 
-# 🎓LEARNING RESOURCES OF QC
+# 🎓LEARNING RESOURCES 
 
-These are going to links to resources which have a simplified explanation of QC, which are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
+These are going to links to resources which have a simplified explanations, which are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
+
+## Quantum Theory 
 
 N | Source | Url | Synopsis
 |:--|:--:|:--:|:--:|
@@ -111,6 +115,9 @@ N | Source | Url | Synopsis
 12 | ▶️Youtube | [▶️Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
 13 | ▶️Youtube | [▶️Quantum Entanglement: Spooky Action at a Distance](https://youtu.be/JFozGfxmi8A) | Explanation of Quantum Entanglement from [FermiLab](https://www.fnal.gov/) 
 14 | ▶️Youtube | [▶️The Most Successful Scientific Theory Ever: The Standard Model](https://youtu.be/Unl1jXFnzgo) | Description of the standard model of particle physics - which are the fundamental building blocks of everything in the universe
+
+## Quantum Computing
+
 
 > 🍌 TLDR - Above media is more entertaining than reading the following text
 
