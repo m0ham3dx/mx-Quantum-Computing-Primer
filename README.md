@@ -62,7 +62,7 @@ graph TD
     A --> A3[Quantum<br>Computing]
 
     %% A1 Boxes 
-    A1 --> A11[Quantum<br>Physics+Mecahnics]
+    A1 --> A11[Quantum<br>Physics+Mechanics]
     A1 --> A12[Quantum<br>Computing]
 
     %% A2 Boxes 
@@ -79,7 +79,8 @@ graph TD
 
 > 👉 Many concepts contained are an oversimplification of very deep physics and quantum physics/mechanics. Where example of the usage of mathematical equations are lacking. I may come back to that at  later time.
 
-> 🥅 The goal is understand enough to start using the various quantum 
+> 🥅 The goal is understand enough to start experimenting with  the various quantum cloud services, open source packages and find somer real work high impact application. 
+
 <p align = "center">
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
 <img src = "./infogfx/apfi.gif" width="100">
