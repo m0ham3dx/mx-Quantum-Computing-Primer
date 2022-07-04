@@ -77,9 +77,9 @@ graph TD
 
 > ⚠️ Information contained is subject to my own interpretation, which has been kept to a minimum. The bulk of the information has been referenced. I cannot guarantee 100% accuracy😟.
 
-> 👉 Many concepts contained are an oversimplification of very deep physics and quantum physics/mechanics. Where example of the usage of mathematical equations are lacking. I may come back to that at  later time.
+> 👉 Many concepts contained are an oversimplification of very deep physics and quantum physics/mechanics. Where examples of the application of equations are lacking. I may come back to that at a later time🙄.
 
-> 🥅 The goal is understand enough to start experimenting with  the various quantum cloud services, open source packages and find somer real work high impact application. 
+> 🥅 The goal is understand enough to start experimenting with  the various quantum cloud services, open source packages and find somer real work high impact application 🎪. 
 
 <p align = "center">
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
