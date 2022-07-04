@@ -53,11 +53,11 @@ Portfolio Website - m0ham3d.com
 ----
 # ℹ️ REPO DESCRIPTION
 
-This repository contain the following information regarding $Quantum \ Computing$ .
+This repository contains the following information regarding $Quantum \ Computing$ .
 
 ```mermaid
 graph TD
-    A[Quantum<br>Computing<br>Repo] --> A1[Learning<br>Resources]
+    A[Quantum<br>Computing<br>Primer<br>] --> A1[Learning<br>Resources]
     A --> |Low<br>Math<br>Proofs|A2[Quantum<br>Theory]
     A --> A3[Quantum<br>Computing]
 
