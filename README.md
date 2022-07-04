@@ -75,7 +75,7 @@ graph TD
     A32 --> A321[Packages<br>Tools<br>Test<br> maybe...]
 ```
 
-> ⚠️ Information contained is subject to my own interpretation, which has been kept to a minimum. The bulk of the information has been referenced for known sources. I cannot guarantee 100% accuracy.
+> ⚠️ Information contained is subject to my own interpretation, which has been kept to a minimum. The bulk of the information has been referenced. I cannot guarantee 100% accuracy😟.
 
 > 👉 Many concepts contained are an oversimplification of very deep physics and quantum physics/mechanics. Where example of the usage of mathematical equations are lacking. I may come back to that at  later time.
 
@@ -88,7 +88,7 @@ graph TD
 </p>
 
 <p align = "center">
-I have also added *🍌TLDR* block to each section, for fast understanding.
+I have also added <b>🍌TLDR</b> block to each section, for fast understanding 😉.
 </p>
 
 # 🎓LEARNING RESOURCES OF QC
