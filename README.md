@@ -201,7 +201,8 @@ $$h=planck's \ constant$$
 
 $$m = particle \ mass \ moving \ at \ velocity \ v$$
 
-😄😊🙂😐😟😫😭
+😭😫😟😐🙂😊😄
+
 ### **Measurement Problem**
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
@@ -243,7 +244,8 @@ $$ b_{n}=\langle\varphi_{n}|\Psi\rangle $$
 
 $$ which \ is \ the  \ projetion  \ of (\Psi) \ onto \ the  \ \textbf{eigenvector}(\varphi_{n})$$
 
-😄😊🙂😐😟😫😭
+😭😫😟😐🙂😊😄
+
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
 😄😊🙂😐😟😫😭
@@ -260,7 +262,7 @@ $$ x = coordinates $$
 
 $$ t = time $$
 
-😄😊🙂😐😟😫😭
+😭😫😟😐🙂😊😄
 
 Where the function $\Psi$ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$). This wave function indicates that the behavior of a quantum object is [probabilistic](https://quantumatlas.umd.edu/entry/quantum-states/), this means that the wave function encodes all the probabilistic outcomes of the measurement and this *quantum state* equation captures the full range of these possible measurement outcomes.   
 
@@ -315,7 +317,7 @@ $$\Delta p=Change \ in \ momentum $$
 
 $$h=planck \ constant$$
 
-😄😊🙂😐😟😫😭
+😭😫😟😐🙂😊😄
 ### **Energy Quantization** 
 
 [![](./infogfx/enqu.png)](https://slideplayer.com/slide/10879856/)
@@ -343,7 +345,7 @@ $$ v = frequency \ of \ oscillations $$
 
 $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
 
-😄😊🙂😐😟😫😭
+😭😫😟😐🙂😊😄
 
 > 🍌 TLDR - The above are the most basic building blocks of Quantum Physics. These properties are exploited in Quantum Computing
 
