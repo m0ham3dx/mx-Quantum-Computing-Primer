@@ -189,6 +189,8 @@ One of the most counterintuitive concepts in physics – the idea that quantum o
    
 These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all a wave function is associated wit all particles. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation has proposed by *de Broglie* , which is referred to as *de Broglie's* equation.
 
+😄😊🙂😐😟😫😭
+
 $$🧮de \ Broglie's \ Equation$$
 
 $$\lambda =  \frac{h}{mv}$$
@@ -199,6 +201,7 @@ $$h=planck's \ constant$$
 
 $$m = particle \ mass \ moving \ at \ velocity \ v$$
 
+😄😊🙂😐😟😫😭
 ### **Measurement Problem**
 [![](./infogfx/mepr.png)](http://www.quantumphysicslady.org/glossary/measurement-problem/)
 <p align="center">
@@ -228,6 +231,8 @@ The superposition principle is the idea that a system is in all possible states 
 
 Superposition principle equation states that a *statefunction*($\Psi$) can be expanded as a linear combination of the normalized [*eigenstates*](https://web.physics.wustl.edu/alford/physics/essentials.pdf) ($\phi _{n}$) of a particular *operator* that constitute a basis of the space occupied by ($\Psi$). For the discrete case
 
+😄😊🙂😐😟😫😭
+
 $$🧮Superposition \ Principle \ - Discrete  \ Case$$
 
 $$|\Psi\rangle=\sum_{n=1}^{\infty}|b_{n}\varphi_{n}\rangle$$
@@ -238,7 +243,10 @@ $$ b_{n}=\langle\varphi_{n}|\Psi\rangle $$
 
 $$ which \ is \ the  \ projetion  \ of (\Psi) \ onto \ the  \ \textbf{eigenvector}(\varphi_{n})$$
 
+😄😊🙂😐😟😫😭
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
+
+😄😊🙂😐😟😫😭
 
 Fundamental Law of Quantum Mechanics
 
@@ -251,6 +259,8 @@ $$ \Psi\ = \ complex function $$
 $$ x = coordinates $$
 
 $$ t = time $$
+
+😄😊🙂😐😟😫😭
 
 Where the function $\Psi$ is the *complex function* which describes *wave-particle duality* (Fig 4) which depends on the coordinate($x$) and time($t$). This wave function indicates that the behavior of a quantum object is [probabilistic](https://quantumatlas.umd.edu/entry/quantum-states/), this means that the wave function encodes all the probabilistic outcomes of the measurement and this *quantum state* equation captures the full range of these possible measurement outcomes.   
 
@@ -293,6 +303,8 @@ In order to see a particle, light has to reflect of the particle and enter our v
 
 [The Heisenberg Uncertaining Principle](https://openstax.org/books/university-physics-volume-3/pages/7-2-the-heisenberg-uncertainty-principle) equation is the product of the *uncertainity in position*($\Delta x$) of a particle and the *uncertaining in its momentum*($\Delta p$) , which can never be less than one half ($< \frac{1}{2}$) of the planck constant($h$).
 
+😄😊🙂😐😟😫😭
+
 $$🧮Heisenberg \ Uncertainity \ Principle \ Equation $$
 
 $$\Delta x . \Delta p \ge \frac{h}{2}$$
@@ -303,6 +315,7 @@ $$\Delta p=Change \ in \ momentum $$
 
 $$h=planck \ constant$$
 
+😄😊🙂😐😟😫😭
 ### **Energy Quantization** 
 
 [![](./infogfx/enqu.png)](https://slideplayer.com/slide/10879856/)
@@ -316,6 +329,8 @@ $$h=planck \ constant$$
 
 Planc's postulate for the energy state ($E$ $_{n}$) of a quantum mechanical simple harmonic oscillator with the following equation
 
+😄😊🙂😐😟😫😭
+
 $$ 🧮 Planck's \ Postulate - Quantum \ Mechanical \ Simple \ Harmonic \ Oscillator  $$
 
 $$ E_{n}=(n+\frac{1}{2})hv $$
@@ -327,6 +342,8 @@ $$ n = non-negative \ integer \ (1,2,3...) $$
 $$ v = frequency \ of \ oscillations $$
 
 $$ h(planc's \ constant) = 6.62610^{-34}J.s $$
+
+😄😊🙂😐😟😫😭
 
 > 🍌 TLDR - The above are the most basic building blocks of Quantum Physics. These properties are exploited in Quantum Computing
 
