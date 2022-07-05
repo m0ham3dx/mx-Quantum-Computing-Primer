@@ -316,9 +316,9 @@ In [Quantum Theory](https://blogs.scientificamerican.com/observations/what-does-
 
 A principle of the quantum realm referring to the measurement of a particle. As we have discussed so far, that a sub atomic particle displays both a wave and particle like behavior, measuring both the *position* and *speed* becomes a challenge. The Heisenberg Uncertainity Principle states that it is [impossible to know exactly both the position & speed of a particle](https://scienceexchange.caltech.edu/topics/quantum-science-explained/uncertainty-principle). And the more effort is done to measure these properties, the less accurate the results. 
 
-In order to see a particle, light has to reflect of the particle and enter our viewing appartus. But the problem occurs when the photons emitted from the device that tries to measure the particle, these photons(light) transfer energy (momentum) when striking the particle, change its momentum and speed. So this light when reflected of the particle enters the viewing apparatus is already carrying inaccurate and altered information. 
+In order to see a particle, light has to reflect of the particle and enter our viewing appartus. But the problem occurs when the photons emitted from the device that tries to measure the particle, these photons(light) transfer energy (momentum in the form of Kinetic energy) when striking the particle. This changes the momentum and speed of the particle under observation. So this light when reflected of the particle enters the viewing apparatus is already carrying inaccurate and altered information. 
 
-[The Heisenberg Uncertaining Principle](https://openstax.org/books/university-physics-volume-3/pages/7-2-the-heisenberg-uncertainty-principle) equation is the product of the *uncertainity in position*($\Delta x$) of a particle and the *uncertaining in its momentum*($\Delta p$) , which can never be less than one half ($< \frac{1}{2}$) of the planck constant($h$).
+[The Heisenberg Uncertaining Principle](https://openstax.org/books/university-physics-volume-3/pages/7-2-the-heisenberg-uncertainty-principle) equation is the product of the *uncertainity in position*($\Delta x$) of a particle and the *uncertaining in its momentum*($\Delta p$) , which can never be less than one half ($<\frac{1}{2}$) of the planck constant($h$).
 
 😄😊🙂😐😟😫😭
 
