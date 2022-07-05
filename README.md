@@ -416,8 +416,12 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson) (often referred to as Higgs - which was theorized by [Peter Higgs](https://www.nobelprize.org/prizes/physics/2013/higgs/facts/) ), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence Principle](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) ($E=MC^2$) 
 
  It was detected via statistical analysis of large amounts of data which was collected by the [ATLAS](https://home.cern/science/experiments/atlas) & [CMS](https://cms.cern/detector) detectors, after the collisions occur. 
- 
-   
+
+N | N
+|:--:|:--:|
+[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  | [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i>  A chain of LHC dipole magnets inside the tunnel at point 1 (ATLAS) towards the end of Long Shutdown 2 (LS2).When the Large Hadron Collider (LHC) begins Run 3 next year, operators aim to increase the energy of the proton beams to an unprecedented 6.8 TeV. 2021-09-23  </i>
+
+
 
 
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
