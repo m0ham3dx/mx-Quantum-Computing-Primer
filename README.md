@@ -318,7 +318,7 @@ A principle of the quantum realm referring to the measurement of a particle. As 
 
 In order to see a particle, light has to reflect of the particle and enter our viewing appartus. But the problem occurs when the photons emitted from the device that tries to measure the particle, these photons(light) transfer energy (momentum in the form of Kinetic energy) when striking the particle. This changes the momentum and speed of the particle under observation. So this light when reflected of the particle enters the viewing apparatus is already carrying inaccurate and altered information. 
 
-[The Heisenberg Uncertaining Principle](https://openstax.org/books/university-physics-volume-3/pages/7-2-the-heisenberg-uncertainty-principle) equation is the product of the *uncertainity in position*($\Delta x$) of a particle and the *uncertaining in its momentum* ($\Delta p$) , which can never be less than one half ($\frac{1}{2}$) of the planck constant($h$).
+[The Heisenberg Uncertaining Principle](https://openstax.org/books/university-physics-volume-3/pages/7-2-the-heisenberg-uncertainty-principle) equation is the product of the *uncertainity in position* ($\Delta x$) of a particle and the *uncertainity in its momentum* ($\Delta p$) , which can never be less than one half ($\frac{1}{2}$) of the planck constant($h$).
 
 😄😊🙂😐😟😫😭
 
