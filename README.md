@@ -215,7 +215,7 @@ $$m = particle \ mass \ moving \ at \ velocity \ v$$
 <i>Fig 5: QP Measurement Problem</i>
 <p>
 
-According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going on in the quantum space, which means that these particles exhibit the property of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). *Non-locality which basically means, no observed particles have an absolute location in space.* Sub atomic particles are expressed as [wave functions](https://www.quantumphysicslady.org/glossary/wave-function/) ($ \Psi $) ie., only an approxmation of its actual location can be done based on mathematical probabilities and the exact location of the particle is unknown.
+According to the [Copenhagen Interpretation](https://physicsworld.com/a/thirty-years-of-against-measurement/) (being debated), which states that [during measurement](https://plato.stanford.edu/entries/qm-copenhagen/), the observer gets a subjective perception of what is going on in the quantum space, which means that these particles exhibit the property of [*non-locality*](https://www.scientificamerican.com/article/how-einstein-revealed-the-universe-s-strange-nonlocality/). *Non-locality which basically means, no observed particles have an absolute location in space.* Sub atomic particles are expressed as [wave functions](https://www.quantumphysicslady.org/glossary/wave-function/) ($ \Psi $) ie., only an approxmation of its actual location is known based on mathematical probabilities and the exact location of the particle is unknown.
 
 The **Measurement Problem** states that these wave functions abruptly collapse into a particle in a point of space in time during observation, whose beahvior is unknown.
 
@@ -228,7 +228,16 @@ Superposition | Decoherence
 <i>Fig 6: Quantum Superposition & Decoherence</i>
 <p>
 
-*Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field) exists in both a high energy state and a low energy state at the same time. This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured.
+*Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time, but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field), it exists in both a high energy state and a low energy state at the same time. These are also referred to as [*SPIN*](https://www.space.com/39152-weird-quantum-property-of-spin.html)(also referred to as ([angular momentum](https://cronodon.com/Atomic/quantum_angular_momentum.html)) This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured.
+
+<p align="center">
+<a href="https://cronodon.com/Atomic/quantum_angular_momentum.html" target="_blank" >
+<img src="./infogfx/Qusp.jpg">
+</a>
+</p>
+<p align=center>
+<i>Fig 6.1: Spin or angular momentum of quantum particles</i>
+</p>
 
 [*Superposition Principle*](http://physics.gmu.edu/~dmaria/590%20Web%20Page/public_html/qm_topics/superposition/superposition.html)
 
