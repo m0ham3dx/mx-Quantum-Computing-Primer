@@ -51,6 +51,7 @@ Portfolio Website - m0ham3d.com
     - [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
     - [**Energy Quantization**](#energy-quantization)
   - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
+    - [Higgs Boson Particle](#higgs-boson-particle)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
     - [Wave Functions](#wave-functions)
@@ -387,6 +388,14 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 <p align="center">
 <i>Fig 11.2: Brief explanation of the <u>Standard Model Equation</u> </i>
 <p>
+
+
+### Higgs Boson Particle
+
+In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($c=C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) 
+
+ It was detected via statistical analysis of large amounts of data which was collected by the [ATLAS](https://home.cern/science/experiments/atlas) which is   
+
 
 > 🍌 Every thing can be broken own into smaller units. The most commonly known unit is the *molecule*. *molecules* in turn are made of smaller particles, and so and so forth until we reach the limits of observation.
 
