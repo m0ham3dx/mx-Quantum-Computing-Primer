@@ -398,7 +398,18 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 ### Higgs Boson Particle
 
-In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson) (often referred to as Higgs - which was theorized by ), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($c=C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) 
+[![](./infogfx/hb2.png)](https://www.home.cern/science/physics/standard-model)
+<p align="center">
+<i>Fig 11.3: Higgs Particle represenation in the Standard Model by CERN</u> </i>
+<p>
+
+[![](./infogfx/hb1.png)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+<p align="center">
+<i>Fig 11.4: Higgs Particle relationship in the Standard Model</u> </i>
+<p>
+
+
+In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson) (often referred to as Higgs - which was theorized by [Peter Higgs](https://www.nobelprize.org/prizes/physics/2013/higgs/facts/) ), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($c=C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence Principle](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) 
 
  It was detected via statistical analysis of large amounts of data which was collected by the [ATLAS](https://home.cern/science/experiments/atlas) which is   
 
