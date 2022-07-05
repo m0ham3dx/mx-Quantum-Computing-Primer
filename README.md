@@ -117,14 +117,15 @@ N | Source | Url | Synopsis
 7 | 📃Paper | [📃 Quantum States & Superposition](https://www.southampton.ac.uk/~doug/quantum_physics/superposition.pdf) | Mathematical discussion of Quantum States & Superposition
 8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quantum teunneling effect, ie., quantum particles can pass through objects
 9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
-10 | ▶️Youtube | [▶️Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
+10 | ▶️Youtube | [▶️ Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
 11 | 📰Article | [📰 What Is Planck's Constant, and Why Does the Universe Depend on It?](https://science.howstuffworks.com/dictionary/physics-terms/plancks-constant.htm) | Article discussing the origins and applications of the planc's constant in modern media
-12 | ▶️Youtube | [▶️Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
-13 | ▶️Youtube | [▶️Quantum Entanglement: Spooky Action at a Distance](https://youtu.be/JFozGfxmi8A) | Explanation of Quantum Entanglement from [FermiLab](https://www.fnal.gov/) 
-14 | ▶️Youtube | [▶️The Most Successful Scientific Theory Ever: The Standard Model](https://youtu.be/Unl1jXFnzgo) | Description of the standard model of particle physics - which are the fundamental building blocks of everything in the universe
-15 | ▶️Youtube | [▶️What Is the Higgs Boson? Trapping The God Particle](https://youtu.be/hyIbzN4X6hE) | General video about dark energy, cosmic radiation and particle accelaration experiments
-16 | ▶️Youtube | [▶️The Higgs Discovery Explained - Ep. 1/3 - CERN](https://youtu.be/so2nCu2Jkbc) | Story and description of the discovery of he Higgs-Boson  from [CERN](https://home.cern/) the laboaratory that disovered the particle
-17 | ▶️Youtube | [▶️How the Large Hadron Collider Works in 10 Minutes](https://youtu.be/FuWNp5dmgzo) | Description of the LHC - The Large Hadron Collider at [CERN](https://home.cern/)
+12 | ▶️Youtube | [▶️ Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
+13 | ▶️Youtube | [▶️ Quantum Entanglement: Spooky Action at a Distance](https://youtu.be/JFozGfxmi8A) | Explanation of Quantum Entanglement from [FermiLab](https://www.fnal.gov/) 
+14 | ▶️Youtube | [▶️ The Most Successful Scientific Theory Ever: The Standard Model](https://youtu.be/Unl1jXFnzgo) | Description of the standard model of particle physics - which are the fundamental building blocks of everything in the universe
+15 | ▶️Youtube | [▶️ What Is the Higgs Boson? Trapping The God Particle](https://youtu.be/hyIbzN4X6hE) | General video about dark energy, cosmic radiation and particle accelaration experiments
+16 | ▶️Youtube | [▶️ The Higgs Discovery Explained - Ep. 1/3 - CERN](https://youtu.be/so2nCu2Jkbc) | Story and description of the discovery of he Higgs-Boson  from [CERN](https://home.cern/) the laboaratory that disovered the particle
+17 | ▶️Youtube | [▶️ How the Large Hadron Collider Works in 10 Minutes](https://youtu.be/FuWNp5dmgzo) | Description of the LHC - The Large Hadron Collider at [CERN](https://home.cern/)
+18 | ▶️Youtube | [▶️ What is a Higgs Boson?](https://youtu.be/RIg1Vh7uPyw) | Simplified explanation of the *Higgs-Boson* particle from [Fermilab](https://www.fnal.gov/)
 ## Quantum Computing
 
 
@@ -397,7 +398,7 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 ### Higgs Boson Particle
 
-In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($c=C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) 
+In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Research*. Discovered the [*Higgs-Boson Particle*](https://home.cern/science/physics/higgs-boson) (often referred to as Higgs - which was theorized by ), during a particle collission experiment in the [*Large Hadronic Collide* (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN which is the worlds largest and most powerful [particle accelerator](https://opentextbc.ca/universityphysicsv3openstax/chapter/particle-accelerators-and-detectors/) capable of accelerating particles (protons p<sup>+</sup> to the speed of light ($c$) where ($c=C=3 \times\mathrm{10}_{}^{8} \ m/s$) in both clockwise and anticlockwise directions. These accelerated proton beams then collide at four different locations. The energy from these collissions get coverted into mass according to the [Mass Energy Equivalence](https://energyeducation.ca/encyclopedia/Mass-energy_equivalence) 
 
  It was detected via statistical analysis of large amounts of data which was collected by the [ATLAS](https://home.cern/science/experiments/atlas) which is   
 
