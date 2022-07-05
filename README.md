@@ -3,9 +3,9 @@ Fri 01 Jul 2022 01:44:28 PM UTC
 Portfolio Website - m0ham3d.com
 --->
 
-<p alight="center">
+<p align="center">
 <a href="https://quran.com/51/47" target="blank">
-<img src="./infogfx/q5147.png">
+<img src="./infogfx/q5147.png" width="500">
 </p>
 
 <p align="center">
