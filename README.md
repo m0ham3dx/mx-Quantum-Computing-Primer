@@ -95,7 +95,7 @@ I have also added <b>🍌TLDR</b> block to each section, for fast understanding 
 
 # 🎓LEARNING RESOURCES 
 
-These are going to links to resources which have a simplified explanations, which are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
+These are going to links to resources which have simplified explanations, that are not math heavy. With a greater focus on videos rather than papers. Note all of these sources have been studied for the content in this repository.
 
 ## Quantum Theory 
 
@@ -108,7 +108,7 @@ N | Source | Url | Synopsis
 5 | ▶️Youtube | [▶️ If You Don't Understand Quantum Physics, Try This!](https://youtu.be/Usu9xZfabPM) | Source video for *Fig 3: Components of QP*
 6 | ▶️Youtube | [▶️ quantum superposition of states and decoherence](https://youtu.be/7B1llCxVdkE) | Animation superposition of quantum states of an electron and decoherence (time taken for the superposition to disappear)
 7 | 📃Paper | [📃 Quantum States & Superposition](https://www.southampton.ac.uk/~doug/quantum_physics/superposition.pdf) | Mathematical discussion of Quantum States & Superposition
-8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quanutm teunneling effect, ie., quantum particles can pass through objects
+8 | ▶️Youtube | [▶️quantum tunnel effect and tunneling microscope](https://youtu.be/K64Tv2mK5h4) | Animation quantum teunneling effect, ie., quantum particles can pass through objects
 9 | ▶️Youtube | [▶️ Quantum Tunneling](https://youtu.be/RF7dDt3tVmI) | Animation style explanation of a wave functions
 10 | ▶️Youtube | [▶️Breaking The Heisenberg Uncertainty Principle](https://youtu.be/uZDhCW-PTRM) | Short documentary on the uncertainity principle
 11 | 📰Article | [📰 What Is Planck's Constant, and Why Does the Universe Depend on It?](https://science.howstuffworks.com/dictionary/physics-terms/plancks-constant.htm) | Article discussing the origins and applications of the planc's constant in modern media
@@ -140,7 +140,7 @@ flowchart TD
 
 ## Definition of `Quantum`
 
-Quantum(*Singular*) or Quanta(*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a [sub atomic particle](https://www.livescience.com/mystery-of-proton-neutron-behavior-in-nucleus.html), such as [electrons (e<SUP>-</SUP>), protons (p<sup>+</sup>), neutrons (n<sup>0</sup>)](https://www.livescience.com/65427-fundamental-elementary-particles.html). 
+$Quantum$ (*Singular*) or $Quanta$ (*Plural*) [defined](http://physicsbuzz.physicscentral.com/2018/02/just-what-is-quantum.html) as the smallest and simplest unit of something. In the case of Quantum Mechanics / Quantum Physics, it refers to a [sub atomic particle](https://www.livescience.com/mystery-of-proton-neutron-behavior-in-nucleus.html), such as [electrons (e<SUP>-</SUP>), protons (p<sup>+</sup>), neutrons (n<sup>0</sup>)](https://www.livescience.com/65427-fundamental-elementary-particles.html). 
 
 > 🍌 TLDR - Quantum means the smallest and simplest unit of thing
 
