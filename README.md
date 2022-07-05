@@ -121,7 +121,9 @@ N | Source | Url | Synopsis
 12 | ▶️Youtube | [▶️Eigenvalues and eigenstates in quantum mechanics](https://youtu.be/p1zg-c1nvwQ) | Discussion of mathematical operators that enable physical observables in quantum mechanics
 13 | ▶️Youtube | [▶️Quantum Entanglement: Spooky Action at a Distance](https://youtu.be/JFozGfxmi8A) | Explanation of Quantum Entanglement from [FermiLab](https://www.fnal.gov/) 
 14 | ▶️Youtube | [▶️The Most Successful Scientific Theory Ever: The Standard Model](https://youtu.be/Unl1jXFnzgo) | Description of the standard model of particle physics - which are the fundamental building blocks of everything in the universe
-
+15 | ▶️Youtube | [▶️What Is the Higgs Boson? Trapping The God Particle](https://youtu.be/hyIbzN4X6hE) | General video about dark energy, cosmic radiation and particle accelaration experiments
+16 | ▶️Youtube | [▶️The Higgs Discovery Explained - Ep. 1/3 - CERN](https://youtu.be/so2nCu2Jkbc) | Story and description of the discovery of he Higgs-Boson  from [CERN](https://home.cern/) the laboaratory that disovered the particle
+17 | ▶️Youtube | [▶️How the Large Hadron Collider Works in 10 Minutes](https://youtu.be/FuWNp5dmgzo) | Description of the LHC - The Large Hadron Collider at [CERN](https://home.cern/)
 ## Quantum Computing
 
 
