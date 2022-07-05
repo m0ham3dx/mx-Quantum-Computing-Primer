@@ -419,7 +419,8 @@ In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Resea
 
 N | N
 |:--:|:--:|
-[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  | [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i>  A chain of LHC dipole magnets inside the tunnel at point 1 (ATLAS) towards the end of Long Shutdown 2 (LS2).When the Large Hadron Collider (LHC) begins Run 3 next year, operators aim to increase the energy of the proton beams to an unprecedented 6.8 TeV. 2021-09-23  </i>
+[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  | [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i> Fig: 11.6 A chain of LHC dipole magnets inside the tunnel </i> 
+[![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) <i> Fig 11.7: Components of the dipole </i>
 
 
 
