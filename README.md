@@ -161,7 +161,7 @@ $Quantum$ (*Singular*) or $Quanta$ (*Plural*) [defined](http://physicsbuzz.physi
 <i>Fig 2: Current landscape of understanding of physics</i>
 </p>
 
-Fig 2 - Illustrates the evolution of our understanding of physics. Until more recent times due to the advancement of experimental technologies, *Quantum Theories* are only now being observed & proved. Please note that their are active efforts of utilizing the Quantum Phenomenon for computing purposes, but our general understanding of it is quite poor
+Fig 2 - Illustrates the evolution of our understanding of physics. Until more recent times due to the advancement of experimental technologies, *Quantum Theories* are only now being observed & proved. Please note that their are active efforts of utilizing the Quantum Phenomenon for computing purposes, but our general understanding of it is quite poor.
 
 ```mermaid
 flowchart TD
@@ -193,7 +193,7 @@ flowchart TD
 <p>
 One of the most counterintuitive concepts in physics – the idea that quantum objects are complementary, behaving like waves in some situations and like particles in others.
    
-These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all a wave function is associated wit all particles. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation has proposed by *de Broglie* , which is referred to as *de Broglie's* equation.
+These [particle waves](http://electron6.phys.utk.edu/phys250/modules/module%202/matter_waves.htm) are referred to as *matter waves*, [Luis de Broglie](https://www.spaceandmotion.com/Physics-Louis-de-Broglie.htm) first proposed that all matter has a *wave function* associated with it. These matter waves are a central part of the theory of $Quantum$ $Mechanics$. The *wavelengths* ($\lambda$) of these particles can be calculated by the following equation by *de Broglie* , which is referred to as *de Broglie's* equation.
 
 😄😊🙂😐😟😫😭
 
