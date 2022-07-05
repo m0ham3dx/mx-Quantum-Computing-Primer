@@ -403,7 +403,11 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 <i>Fig 11.3: Higgs Particle represenation in the Standard Model by CERN</u> </i>
 <p>
 
-[![](./infogfx/hb1.png)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+<p align="center">
+<a href="https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/" target="_blank">
+<img src="./infogfx/hb1.png" width="500">
+</a>
+<p>
 <p align="center">
 <i>Fig 11.4: Higgs Particle relationship in the Standard Model</u> </i>
 <p>
