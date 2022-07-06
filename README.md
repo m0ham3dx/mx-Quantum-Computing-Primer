@@ -45,6 +45,7 @@ Portfolio Website - m0ham3d.com
     - [**Particle Wave Duality**](#particle-wave-duality)
     - [**Measurement Problem**](#measurement-problem)
     - [**Superposition**](#superposition)
+      - [Quantum Spin](#quantum-spin)
     - [**Quantum State**](#quantum-state)
     - [**👻Entanglement** (also referred to as Spooky Action)](#entanglement-also-referred-to-as-spooky-action)
     - [**Quantum Tunneling**](#quantum-tunneling)
@@ -237,15 +238,6 @@ Superposition | Decoherence
 
 *Superposition* or *Quantum Superposition* is defined as the ability of a sub atomic particle (such as an electron) to be in [multiple quantum states](https://jqi.umd.edu/glossary/quantum-superposition) all at the same time, but when observed only has one state. In the case of an electron which gets excited (jumps to a higher energy state) in the presence of electro magnetic radiation (e.g Magnetic Field), it exists in both a high energy state and a low energy state at the same time. These are also referred to as [*SPIN*](https://www.space.com/39152-weird-quantum-property-of-spin.html)(also referred to as ([angular momentum](https://cronodon.com/Atomic/quantum_angular_momentum.html)) This is deduced from the wave patterns during its observation. An important term to also know at this point is *decoherence* which is when superposition can no longer be measured.
 
-<p align="center">
-<a href="https://cronodon.com/Atomic/quantum_angular_momentum.html" target="_blank" >
-<img src="./infogfx/Qusp.jpg">
-</a>
-</p>
-<p align=center>
-<i>Fig 6.1: Spin or angular momentum of quantum particles</i>
-</p>
-
 [*Superposition Principle*](http://physics.gmu.edu/~dmaria/590%20Web%20Page/public_html/qm_topics/superposition/superposition.html)
 
 This principle states that a system (such as a group of quantum particles) exist in all *possible states at the same time*, only after measurement it falls to one of the *states* that form the superposition. This destroys its original configuration
@@ -267,6 +259,16 @@ $$ b_{n}=\langle\varphi_{n}|\Psi\rangle $$
 $$ which \ is \ the  \ projetion  \ of (\Psi) \ onto \ the  \ \textbf{eigenvector}(\varphi_{n})$$
 
 😭😫😟😐🙂😊😄
+
+#### Quantum Spin
+
+Pics | Pics 
+|:--:|:--:|
+[![](./infogfx/Qusp.jpg)](https://cronodon.com/Atomic/quantum_angular_momentum.html) *Fig 6.1: Spin or angular momentum of quantum particles*  | [![](./infogfx/smspins.jpg)](http://animatedphysics.com/insights/particles-of-the-standard-model/) *Fig 6.2: Spin or other particles of the Standard Model*
+
+Amongst the poperties of quantum particles one of them is referred to as [*spin* or *intrinsic angular momentum*](https://www.scientificamerican.com/article/what-exactly-is-the-spin/). This property although referred to as *spin* is not [actually spinning like a top](https://www.forbes.com/sites/startswithabang/2017/04/19/why-does-the-proton-spin-physics-holds-a-surprising-answer/?sh=2f1be3e52c3a), but this property describes its behavior in the presence of an electro magnetic field [experimentally](https://chem.libretexts.org/Courses/Pacific_Union_College/Quantum_Chemistry/14%3A_Nuclear_Magnetic_Resonance_Spectroscopy/14.01%3A_Nuclei_Have_Intrinsic_Spin_Angular_Momenta). This property is observed but not understood and has no likeness in classical physics, which is broadly referred to as $Quantum \ Weirdness$ ([referring to our inability to comprehend quantum behavior even though it is being observed](https://physics.aps.org/articles/v15/11)). 
+1. Fig 6.1 - Describes a simplified view of the *spin* in the presence of an electro magnetic field. For sake of simoplicity it is referred to as spin-up($s=+\frac{1}{2}$) or spin-down($s=-\frac{1}{2}$), these have been observed experimentally when the stream of particles [group themselves](https://plato.stanford.edu/entries/physics-experiment/app5.html) in the presence of an electro-magnetic field. 
+2. Fig 6.2 - Describes these spins in the observed and hypothesized particles of the [Standard Model of Particle Physics](#standard-model-of-particle-physics). 
 
 ### [**Quantum State**](https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect1.pdf) 
 
