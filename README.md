@@ -54,6 +54,7 @@ Portfolio Website - m0ham3d.com
     - [Higgs Boson Particle](#higgs-boson-particle)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
+    - [Difference between QP and QM](#difference-between-qp-and-qm)
     - [Wave Functions](#wave-functions)
 - [🐱‍💻 Quantum Computing (Finally 🙃)](#-quantum-computing-finally-)
 - [🔎 References](#-references)
@@ -468,7 +469,16 @@ The [fundamental](https://particleadventure.org/fermibos.html) building blocks o
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
-Defined as a sub field of physics that describes interaction between particles of the sub atomic realm. *Sub Atomic* referring to the particles that form the atoms, and those particles that form the atoms.
+### Difference between QP and QM 
+
+[Quantum Physics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) | [Quantum Mechanics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) 
+|:--:|:--:|
+Major branch of science | Branch of Quantum Physics 
+Describes the particles | Describes their various interactions 
+Defined as Quantum physics is a branch of science that focuses on systems explained by theories such as quantum mechanics and quantum field theory. Scientists and researchers focus on this area in order to use this knowledge to understand the behaviour of particles at the subatomic level. However, sometimes we use the terms “quantum physics” and “quantum mechanics” interchangeably. | Defined as Quantum mechanics is the set of principle that explains the behaviour of matter at atomic (or subatomic) scale. The word ‘quantum’ itself describes a fundamental concept of quantum mechanics – the quantized or discrete nature of matter and energy.
+
+https://digbib.ubka.uni-karlsruhe.de/volltexte/wasbleibt/57355817/57355817.pdf - Ref for principles of QM 
+
 
 To Do Items 
 - [ ] Describe hilbert space 
