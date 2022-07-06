@@ -420,7 +420,7 @@ Pics | Pics
    
 2. It is  highly unstable particle that quicjly morphs into other particles, and is only [occassionally produced](https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/) in a particle collider.
    
-3. It gets its own mass by interacting with the higgs-field.
+3. It gets its own mass by interacting with the higgs-field. It is a [ $zero \ spin \ particle$ whose mass is $125\ GeV$ ](https://www.nature.com/articles/d41586-022-01834-5) 
 
 
 
