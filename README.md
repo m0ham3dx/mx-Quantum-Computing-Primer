@@ -405,22 +405,22 @@ In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Resea
 
 Pics | Pics
 |:--:|:--:|
-[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  | [![](./infogfx/lhcgeo.png)](https://spectrum.ieee.org/analyzing-the-lhc-magnet-quenches) Fig 11.5.1 : Geolocation of LHC collider tunnel, border of [switerland and france - *gooogle maps*](https://www.google.com/maps/d/viewer?mid=1tZYHxIanWV9iQDff6jWUHN21jmU&hl=en_US&ll=46.27092216959334%2C6.063294499999978&z=13). 
-[![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) <p align="center"> Fig 11.6: Components of the Dipole from 11.7 </p> |  [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i> Fig: 11.7 A chain of LHC dipole magnets inside the tunnel </i>
-[![](./infogfx/atlasdetector.png)](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html)  <p align="center"> Fig 11.8: Atlas Dector Schemaics </p> | [![](infogfx/cmsdetector.png)](https://cms.cern/detector)  <p align="center"> Fig 11.9: CMS Dector Schemaics </p>
+[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) *Fig: 11.5: Map of the LHC collider*  | [![](./infogfx/lhcgeo.png)](https://spectrum.ieee.org/analyzing-the-lhc-magnet-quenches) *Fig 11.5.1 : Geolocation of LHC collider tunnel, border of* [*switerland and france - **gooogle maps***](https://www.google.com/maps/d/viewer?mid=1tZYHxIanWV9iQDff6jWUHN21jmU&hl=en_US&ll=46.27092216959334%2C6.063294499999978&z=13). 
+[![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) *Fig 11.6: Components of the Dipole from 11.7* |  [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i> Fig: 11.7 A chain of LHC dipole magnets inside the tunnel </i>
+[![](./infogfx/atlasdetector.png)](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html) *Fig 11.8: Atlas Dector Schemaics* | [![](infogfx/cmsdetector.png)](https://cms.cern/detector) *Fig 11.9: CMS Dector Schemaics* 
 
 **Characteristics of the Higgs ($h$) Particle**
 
 Pics | Pics
 |:--:|:--:|
-[![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) <p align="center"> Fig 11.20:  Higgs Particle Generating Event in LHC </p> | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) <p align="center"> Fig 11.21: Higgs Particle generation diagram </p>
+[![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.20:  Higgs Particle Generating Event in LHC* | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.21: Higgs Particle generation diagram*
 
 
 1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/)
    
 2. It is  highly unstable particle that quicjly morphs into other particles, and is only [occassionally produced](https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/) in a particle collider.
    
-3. It gets its own mass by interacting with the higgs-field. It is a [ $zero \ spin \ particle$ whose mass is $125\ GeV$ ](https://www.nature.com/articles/d41586-022-01834-5) 
+3. It gets its own mass by interacting with the higgs-field. It is a [$zero \ spin \ particle$ whose mass is $125\ GeV$](https://www.nature.com/articles/d41586-022-01834-5) 
 
 
 
