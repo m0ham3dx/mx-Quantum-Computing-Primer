@@ -380,7 +380,7 @@ The following diagram is an illustration of the [Standard Model](https://simple.
 
 Pics | Pics 
 |:--:|:--:|
-[![](./infogfx/SMP.jpg)](https://twitter.com/DominicWalliman/status/1370044170274938886?s=20&t=_6K3BbsgDfXVIvUJf1L1Mg) *Fig 11.1: Standard Model of Particle Physics - Particles, Conservation Laws, Standard Model Interactions, Force Interactions* | [![](./infogfx/smce.jpg)](https://mediaarchive.cern.ch/MediaArchive/Photo/Public/1995/9501005/9501005/9501005-A4-at-144-dpi.jpg) Fig 11.2: Standard Model Brief from <a href="https://home.cern/"> CERN  - The European Organization of Nuclear Research</a>
+[![](./infogfx/SMP.jpg)](https://twitter.com/DominicWalliman/status/1370044170274938886?s=20&t=_6K3BbsgDfXVIvUJf1L1Mg) *Fig 11.1: Standard Model of Particle Physics - Particles, Conservation Laws, Standard Model Interactions, Force Interactions* | [![](./infogfx/smce.jpg)](https://mediaarchive.cern.ch/MediaArchive/Photo/Public/1995/9501005/9501005/9501005-A4-at-144-dpi.jpg) *Fig 11.2: Standard Model Brief from [CERN  - The European Organization of Nuclear Research](https://home.cern/)*
 
 
 [The Standard Model of Particle Physics](https://www.energy.gov/science/doe-explainsthe-standard-model-particle-physics) is scientists current best theory to describe the most basic building blocks of the universe. It explains how particles called quarks (which make up protons and neutrons) and leptons (which include electrons) make up all known matter. It also explains how force carrying particles, which belong to a broader group of bosons, influence the quarks and leptons. This standard model is represented by the [*Standard Model Equation*](https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation)
