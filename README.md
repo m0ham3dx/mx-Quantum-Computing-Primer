@@ -51,7 +51,7 @@ Portfolio Website - m0ham3d.com
     - [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
     - [**Energy Quantization**](#energy-quantization)
   - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
-    - [Higgs Boson Particle](#higgs-boson-particle)
+    - [Higgs Boson Particle ($H^0$)](#higgs-boson-particle-h0)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
     - [Difference between QP and QM](#difference-between-qp-and-qm)
@@ -393,7 +393,7 @@ Pics | Pics
 <p>
 
 
-### Higgs Boson Particle
+### Higgs Boson Particle ($H^0$)
 
 Pics | Pics 
 |:--:|:--:|
@@ -410,7 +410,7 @@ Pics | Pics
 [![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) *Fig 11.6: Components of the Dipole from 11.7* |  [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i> Fig: 11.7 A chain of LHC dipole magnets inside the tunnel </i>
 [![](./infogfx/atlasdetector.png)](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html) *Fig 11.8: Atlas Dector Schemaics* | [![](infogfx/cmsdetector.png)](https://cms.cern/detector) *Fig 11.9: CMS Dector Schemaics* 
 
-**Characteristics of the Higgs ($h$) Particle**
+**Characteristics of the Higgs ($H^0$) Particle**
 
 Pics | Pics
 |:--:|:--:|
