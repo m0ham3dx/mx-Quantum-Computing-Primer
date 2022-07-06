@@ -419,7 +419,7 @@ In 2012 [CERN](https://home.cern/) - *The European Organization of Nuclear Resea
 
 Pics | Pics
 |:--:|:--:|
-[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  |  
+[![](./infogfx/LHCMap.png)](https://cds.cern.ch/images/CERN-GRAPHICS-2022-001-1/file?size=large) <i>Fig: 11.5: Map of the LHC collider</i>  | [![](./infogfx/lhcgeo.png)](https://spectrum.ieee.org/analyzing-the-lhc-magnet-quenches) Fig 11.5.1 : Geolocation of LHC collider tunnel, border of 🇨🇭 & 🇫🇷
 [![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) <p align="center"> Fig 11.7: Components of the Dipole from 11.6 </p> |  [![](./infogfx/LHCPIC1.jpg)](https://home.cern/resources/image/accelerators/lhc-images-gallery) <i> Fig: 11.6 A chain of LHC dipole magnets inside the tunnel </i>
 [![](./infogfx/atlasdetector.png)](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html)  <p align="center"> Fig 11.8: Atlas Dector Schemaics </p> | [![](infogfx/cmsdetector.png)](https://cms.cern/detector)  <p align="center"> Fig 11.9: CMS Dector Schemaics </p>
 
