@@ -128,6 +128,7 @@ N | Source | Url | Synopsis
 17 | ▶️Youtube | [▶️ How the Large Hadron Collider Works in 10 Minutes](https://youtu.be/FuWNp5dmgzo) | Description of the LHC - The Large Hadron Collider at [CERN](https://home.cern/)
 18 | ▶️Youtube | [▶️ What is a Higgs Boson?](https://youtu.be/RIg1Vh7uPyw) | Simplified explanation of the *Higgs-Boson* particle from [Fermilab](https://www.fnal.gov/)
 19 | ▶️Youtube | [▶️How the Higgs Mechanism Give Things Mass](https://youtu.be/G0Q4UAiKacw) | Simplified explanation of mechanism of higgs boson imparting mass to a particle
+20 | ▶️Youtube | [▶️What is Quantum Spin?](https://youtu.be/sB1EPGmpzyg) | Explanation of the SPIN or Intrinsic Angular Momentum, which can't be described as a spinning top
 ## Quantum Computing
 
 
@@ -417,7 +418,8 @@ Pics | Pics
 [![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.20:  Higgs Particle Generating Event in LHC* | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.21: Higgs Particle generation diagram*
 
 
-1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/)
+1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/). The [higgs mechanism](https://www.fe.infn.it/~bettoni/particelle/Strong/HiggsMechanism.pdf) is how particles acquire mass. 
+   1. This mechanism starts with the premise that the universe is filled with a **spin-zero field**   
    
 2. It is  highly unstable particle that quicjly morphs into other particles, and is only [occassionally produced](https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/) in a particle collider.
    
