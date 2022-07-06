@@ -479,6 +479,8 @@ Defined as Quantum physics is a branch of science that focuses on systems explai
 
 https://digbib.ubka.uni-karlsruhe.de/volltexte/wasbleibt/57355817/57355817.pdf - Ref for principles of QM 
 
+https://www.damtp.cam.ac.uk/user/dbs26/PQM.html - This is more concise 
+
 
 To Do Items 
 - [ ] Describe hilbert space 
