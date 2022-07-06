@@ -427,7 +427,7 @@ Pics | Pics
 
 Pics | Pics
 |:--:|:--:|
-![](./infogfx/hig1g.png) <p align="center"> Fig 11.20:  Higgs Particle Generating Event in LHC </p> | ![](./infogfx/hig2d.png) <p align="center"> Fig 11.21: Higgs Particle generation diagram </p>
+[![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) <p align="center"> Fig 11.20:  Higgs Particle Generating Event in LHC </p> | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) <p align="center"> Fig 11.21: Higgs Particle generation diagram </p>
 
 
 1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/)
