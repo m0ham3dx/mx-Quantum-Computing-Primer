@@ -127,6 +127,7 @@ N | Source | Url | Synopsis
 16 | ▶️Youtube | [▶️ The Higgs Discovery Explained - Ep. 1/3 - CERN](https://youtu.be/so2nCu2Jkbc) | Story and description of the discovery of he Higgs-Boson  from [CERN](https://home.cern/) the laboaratory that disovered the particle
 17 | ▶️Youtube | [▶️ How the Large Hadron Collider Works in 10 Minutes](https://youtu.be/FuWNp5dmgzo) | Description of the LHC - The Large Hadron Collider at [CERN](https://home.cern/)
 18 | ▶️Youtube | [▶️ What is a Higgs Boson?](https://youtu.be/RIg1Vh7uPyw) | Simplified explanation of the *Higgs-Boson* particle from [Fermilab](https://www.fnal.gov/)
+19 | ▶️Youtube | [▶️How the Higgs Mechanism Give Things Mass](https://youtu.be/G0Q4UAiKacw) | Simplified explanation of mechanism of higgs boson imparting mass to a particle
 ## Quantum Computing
 
 
