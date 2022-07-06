@@ -423,6 +423,18 @@ Pics | Pics
 [![](infogfx/lhcdipolemap.gif)](https://cerncourier.com/wp-content/uploads/2006/10/CCEthe1_10-06.gif) <p align="center"> Fig 11.7: Components of the Dipole from 11.6 </p> | 
 [![](./infogfx/atlasdetector.png)](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html)  <p align="center"> Fig 11.8: Atlas Dector Schemaics </p> | [![](infogfx/cmsdetector.png)](https://cms.cern/detector)  <p align="center"> Fig 11.9: CMS Dector Schemaics </p>
 
+**Characteristics of the Higgs Particle**
+
+Pics | Pics
+|:--:|:--:|
+![](./infogfx/hig1g.png) <p align="center"> Fig 11.20:  Higgs Particle Generating Event in LHC </p> | ![](./infogfx/hig2d.png) <p align="center"> Fig 11.21: Higgs Particle generation diagram </p>
+
+
+1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/)
+   
+2. It is  highly unstable particle that quicjly morphs into other particles, and is only [occassionally produced](https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/) in a particle collider.
+   
+3. It gets its own mass by interacting with the higgs-field.
 
 
 
