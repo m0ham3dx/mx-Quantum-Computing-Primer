@@ -419,7 +419,7 @@ Pics | Pics
 |:--:|:--:|
 [![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.10:  Higgs Particle Generating Event in LHC* | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.11: Higgs Particle generation diagram*
 
-[![](./infogfx/higgsmechanism.png)](https://www.zmescience.com/science/higgs-boson-10-year/)
+[![](./infogfx/higmech.png)](https://www.zmescience.com/science/higgs-boson-10-year/)
 <p align="center">
 <i> Fig 12: Higgs Mechanism also referred to as the Mexican Hat Potential is how particles acquire mass in the higgs-field </i>
 </p>
