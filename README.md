@@ -417,15 +417,19 @@ Pics | Pics
 
 Pics | Pics
 |:--:|:--:|
-[![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.20:  Higgs Particle Generating Event in LHC* | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.21: Higgs Particle generation diagram*
+[![](./infogfx/hig1g.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.10:  Higgs Particle Generating Event in LHC* | [![](./infogfx/hig2d.png)](https://www.britannica.com/science/Higgs-boson#ref44596) *Fig 11.11: Higgs Particle generation diagram*
 
+[![](./infogfx/higgsmechanism.png)](https://www.zmescience.com/science/higgs-boson-10-year/)
+<p align="center">
+<i> Fig 12: Higgs Mechanism also referred to as the Mexican Hat Potential is how particles acquire mass in the higgs-field </i>
+</p>
 
 1. It is the [fundamental particle](https://www.energy.gov/science/doe-explainsthe-higgs-boson) associated with the *higgs field*. Which gives mass to other particles. This field is also thought to [play a role in the big-bang](https://www.smithsonianmag.com/science-nature/how-the-higgs-boson-was-found-4723520/). The [higgs mechanism](https://www.fe.infn.it/~bettoni/particelle/Strong/HiggsMechanism.pdf) is how particles acquire mass. 
-   1. This mechanism starts with the premise that the universe is filled with a **spin-zero field**   
+   1. This mechanism starts with the premise that the universe is filled with a **spin-zero field**. Then [guage bosons](https://www.chemeurope.com/en/encyclopedia/Gauge_boson.html) (are force carrier particles) & fermions interact with this field and acquire mass.   
    
 2. It is  highly unstable particle that quicjly morphs into other particles, and is only [occassionally produced](https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/) in a particle collider.
    
-3. It gets its own mass by interacting with the [higgs-field]((https://www.nature.com/articles/d41586-022-01834-5)). It is a $zero \ spin \ particle$ whose mass is $125\ GeV$ 
+4. It gets its own mass by interacting with the [higgs-field]((https://www.nature.com/articles/d41586-022-01834-5)). It is a $zero \ spin \ particle$ whose mass is $125\ GeV$ 
 
 
 
