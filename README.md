@@ -490,7 +490,9 @@ graph TD
 ```
 
 [![](./infogfx/quamechin.jpg)](https://twitter.com/DominicWalliman/status/1113486268048924673?s=20&t=I0QVXkKeuBJ9ZKBKEbivnw)
+<p align="center">
 
+</p>
 
 ### Difference between QP and QM 
 
