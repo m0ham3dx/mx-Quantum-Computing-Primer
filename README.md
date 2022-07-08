@@ -523,7 +523,13 @@ flowchart TD
 
 # 🐱‍💻 QUANTUM Computing (FINALLY 🙃)
 
+> Under Construction
+
 Now that we have a firm grasp (😁) of the important fundamental of QC, the following are a curated sources for some experimentation
+
+
+[![](infogfx/qcvtc.png)](https://www.cbinsights.com/research/quantum-computing-classical-computing-comparison-infographic/)
+
 
 # 🔎 REFERENCES
 
