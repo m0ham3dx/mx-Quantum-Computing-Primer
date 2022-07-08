@@ -57,11 +57,10 @@ Portfolio Website - m0ham3d.com
   - [Quantum Mechanics](#quantum-mechanics)
     - [Difference between QP and QM](#difference-between-qp-and-qm)
     - [Wave Functions](#wave-functions)
-- [🐱‍💻 Quantum Computing (Finally 🙃)](#-quantum-computing-finally-)
-- [🔎 References](#-references)
+- [🐱‍💻 QUANTUM Computing (FINALLY 🙃)](#-quantum-computing-finally-)
+- [🔎 REFERENCES](#-references)
 - [📒 GLOSSARY](#-glossary)
-- [Citation Information](#citation-information)
-  - [Bibtex](#bibtex)
+- [🎓 CITATION](#-citation)
 
 ----
 # ℹ️ REPO DESCRIPTION
@@ -507,11 +506,11 @@ flowchart TD
     A --> B
 ```
 
-# 🐱‍💻 Quantum Computing (Finally 🙃)
+# 🐱‍💻 QUANTUM Computing (FINALLY 🙃)
 
 Now that we have a firm grasp (😁) of the important fundamental of QC, the following are a curated sources for some experimentation
 
-# 🔎 References
+# 🔎 REFERENCES
 
 Majority of the references will be 
 
@@ -526,19 +525,8 @@ n | Term | Expansion
 3 | QP | Quantum Mechanics
 4 | SMP | Standard Model of Particle Physics
 
-# Citation Information 
+# 🎓 CITATION
 
-## Bibtex
-
-How to cite this repository 
-
-**Main**
  ```latex
  @misc{m0ham3dxx, title={M0ham3dx/quantum-computing-primer: Quantum computing primer githb repositroy research paper}, url={https://github.com/m0ham3dx/Quantum-Computing-Primer}, journal={Quantum Computing Primer - Github Reserarch Paper Respository }, publisher={https://twitter.com/m0ham3dxx}, author={m0ham3dxx}} 
  ```
-
-*In-Line*
-```latex
-(m0ham3dxx, M0ham3dx/quantum-computing-primer: Quantum computing primer githb repositroy research paper)
-```
-
