@@ -489,6 +489,9 @@ graph TD
     A --> A6[Time Independent<br>Perturbation Theory]
 ```
 
+[![](./infogfx/quamechin.jpg)](https://twitter.com/DominicWalliman/status/1113486268048924673?s=20&t=I0QVXkKeuBJ9ZKBKEbivnw)
+
+
 ### Difference between QP and QM 
 
 [Quantum Physics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) | [Quantum Mechanics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) 
