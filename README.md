@@ -491,7 +491,7 @@ graph TD
 
 [![](./infogfx/quamechin.jpg)](https://twitter.com/DominicWalliman/status/1113486268048924673?s=20&t=I0QVXkKeuBJ9ZKBKEbivnw)
 <p align="center">
-
+<i> Fig 13: Illustration of the interpretation of Quantum Mecahnics based on the principlels of Quantum Physics as described in the previous sections </i>
 </p>
 
 ### Difference between QP and QM 
