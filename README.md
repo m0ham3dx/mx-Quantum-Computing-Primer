@@ -52,7 +52,7 @@ Portfolio Website - m0ham3d.com
     - [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
     - [**Energy Quantization**](#energy-quantization)
   - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
-    - [Higgs Boson Particle ($H^0$)](#higgs-boson-particle-h0)
+    - [Higgs Boson Particle](#higgs-boson-particle)
   - [Quantum Particles](#quantum-particles)
   - [Quantum Mechanics](#quantum-mechanics)
     - [Difference between QP and QM](#difference-between-qp-and-qm)
@@ -397,7 +397,7 @@ Pics | Pics
 <p>
 
 
-### Higgs Boson Particle ($H^0$)
+### Higgs Boson Particle
 
 Pics | Pics 
 |:--:|:--:|
