@@ -60,6 +60,8 @@ Portfolio Website - m0ham3d.com
 - [🐱‍💻 Quantum Computing (Finally 🙃)](#-quantum-computing-finally-)
 - [🔎 References](#-references)
 - [📒 GLOSSARY](#-glossary)
+- [Citation Information](#citation-information)
+  - [Bibtex](#bibtex)
 
 ----
 # ℹ️ REPO DESCRIPTION
@@ -523,3 +525,20 @@ n | Term | Expansion
 2 | QP | Quantum Physics 
 3 | QP | Quantum Mechanics
 4 | SMP | Standard Model of Particle Physics
+
+# Citation Information 
+
+## Bibtex
+
+How to cite this repository 
+
+**Main**
+ ```latex
+ @misc{m0ham3dxx, title={M0ham3dx/quantum-computing-primer: Quantum computing primer githb repositroy research paper}, url={https://github.com/m0ham3dx/Quantum-Computing-Primer}, journal={Quantum Computing Primer - Github Reserarch Paper Respository }, publisher={https://twitter.com/m0ham3dxx}, author={m0ham3dxx}} 
+ ```
+
+*In-Line*
+```latex
+(m0ham3dxx, M0ham3dx/quantum-computing-primer: Quantum computing primer githb repositroy research paper)
+```
+
