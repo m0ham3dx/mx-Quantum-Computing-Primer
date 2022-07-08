@@ -479,6 +479,16 @@ The [fundamental](https://particleadventure.org/fermibos.html) building blocks o
 
 ## [Quantum Mechanics](https://www.livescience.com/33816-quantum-mechanics-explanation.html) 
 
+```mermaid
+graph TD
+    A[Quantum<br>Mechanics] --> A1[Hilbert<br>Space]
+    A --> A2[Harmonic<br>Osciallator]
+    A --> A3[Transformations<br> and Symmetries]
+    A --> A4[Angular<br>Momentum]
+    A --> A5[Identical<br>Particles]
+    A --> A6[Time Independent<br>Perturbation Theory]
+```
+
 ### Difference between QP and QM 
 
 [Quantum Physics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) | [Quantum Mechanics](https://www.differencebetween.com/difference-between-quantum-physics-and-vs-quantum-mechanics/) 
