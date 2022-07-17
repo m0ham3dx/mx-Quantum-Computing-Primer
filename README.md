@@ -135,6 +135,10 @@ N | Source | Url | Synopsis
 18 | ▶️Youtube | [▶️ What is a Higgs Boson?](https://youtu.be/RIg1Vh7uPyw) | Simplified explanation of the *Higgs-Boson* particle from [Fermilab](https://www.fnal.gov/)
 19 | ▶️Youtube | [▶️How the Higgs Mechanism Give Things Mass](https://youtu.be/G0Q4UAiKacw) | Simplified explanation of mechanism of higgs boson imparting mass to a particle
 20 | ▶️Youtube | [▶️What is Quantum Spin?](https://youtu.be/sB1EPGmpzyg) | Explanation of the SPIN or Intrinsic Angular Momentum, which can't be described as a spinning top
+21 | ▶️Youtube | [▶️The Bloch Sphere](https://youtu.be/Ka4eF4zL3-0) | Visualizing a quantum computing vectors space referred to as Bloch Sphere which is a Qubit.
+22 | 
+23 |
+
 ## Quantum Computing
 
 
@@ -520,6 +524,8 @@ To Do Items
 ### Eigen Spaces
 
 [Linear Algebra is the language](https://qiskit.org/textbook/ch-appendix/linear_algebra.html) of Quantum Computing. The most important methematical quantity of QC is the $vector(v)\rangle$, $(v)$ is an element of a $set$ known as a $vector\ space$. Fundamentally $(v)$ is a mathematical quantity which has both *magnitude & direction*
+
+In QC often we deal with *state vectors* which are vectors which point to a specific point in space which corresponds to a particular *Quantum State*. These states are visualized as a [Bloch Sphere](https://youtu.be/Ka4eF4zL3-0) which represents a $qubit$.
 
 
 ### Wave Functions
