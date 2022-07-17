@@ -57,7 +57,8 @@ Portfolio Website - m0ham3d.com
    4. [Quantum Particles](#quantum-particles)
    5. [Quantum Mechanics](#quantum-mechanics)
       1. [Difference between QP and QM](#difference-between-qp-and-qm)
-      2. [Wave Functions](#wave-functions)
+      2. [Eigen Spaces](#eigen-spaces)
+      3. [Wave Functions](#wave-functions)
 4. [🐱‍💻 QUANTUM Computing (FINALLY 🙃)](#-quantum-computing-finally-)
 5. [🔎 REFERENCES](#-references)
 6. [📒 GLOSSARY](#-glossary)
@@ -515,6 +516,11 @@ To Do Items
 - [ ] Describe Schrodinger equation
 - [ ] Describe principles of Quantum Mecahnics 
 - [ ] Talks about EigenStates
+
+### Eigen Spaces
+
+[Linear Algebra is the language](https://qiskit.org/textbook/ch-appendix/linear_algebra.html) of Quantum Computing. The most important methematical quantity of QC is the $vector(v)\rangle$, $(v)$ is an element of a $set$ known as a $vector\ space$. Fundamentally $(v)$ is a mathematical quantity which has both *magnitude & direction*
+
 
 ### Wave Functions
 
