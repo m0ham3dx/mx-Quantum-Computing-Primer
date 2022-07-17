@@ -33,36 +33,39 @@ Portfolio Website - m0ham3d.com
 </p>
 
 ----
-# 🤌 TOC
-- [🤌 TOC](#-toc)
-- [ℹ️ REPO DESCRIPTION](#ℹ️-repo-description)
-- [🎓LEARNING RESOURCES](#learning-resources)
-  - [Quantum Theory](#quantum-theory)
-  - [Quantum Computing](#quantum-computing)
-- [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
-  - [Definition of `Quantum`](#definition-of-quantum)
-  - [Quantum Physics](#quantum-physics)
-    - [**Particle Wave Duality**](#particle-wave-duality)
-    - [**Measurement Problem**](#measurement-problem)
-    - [**Superposition**](#superposition)
-      - [Quantum Spin](#quantum-spin)
-    - [**Quantum State**](#quantum-state)
-    - [**👻Entanglement** (also referred to as Spooky Action)](#entanglement-also-referred-to-as-spooky-action)
-    - [**Quantum Tunneling**](#quantum-tunneling)
-    - [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
-    - [**Energy Quantization**](#energy-quantization)
-  - [Standard Model of Particle Physics](#standard-model-of-particle-physics)
-    - [Higgs Boson Particle](#higgs-boson-particle)
-  - [Quantum Particles](#quantum-particles)
-  - [Quantum Mechanics](#quantum-mechanics)
-    - [Difference between QP and QM](#difference-between-qp-and-qm)
-    - [Wave Functions](#wave-functions)
-- [🐱‍💻 QUANTUM Computing (FINALLY 🙃)](#-quantum-computing-finally-)
-- [🔎 REFERENCES](#-references)
-- [📒 GLOSSARY](#-glossary)
-- [🎓 CITATION](#-citation)
+
+<h1> TOC </h1>
+
+1. [ℹ️ REPO DESCRIPTION](#ℹ️-repo-description)
+2. [🎓LEARNING RESOURCES](#learning-resources)
+   1. [Quantum Theory](#quantum-theory)
+   2. [Quantum Computing](#quantum-computing)
+3. [🎛️ FUNDAMENTAL PRINCIPLES OF QC](#️-fundamental-principles-of-qc)
+   1. [Definition of `Quantum`](#definition-of-quantum)
+   2. [Quantum Physics](#quantum-physics)
+      1. [**Particle Wave Duality**](#particle-wave-duality)
+      2. [**Measurement Problem**](#measurement-problem)
+      3. [**Superposition**](#superposition)
+         1. [Quantum Spin](#quantum-spin)
+      4. [**Quantum State**](#quantum-state)
+      5. [**👻Entanglement** (also referred to as Spooky Action)](#entanglement-also-referred-to-as-spooky-action)
+      6. [**Quantum Tunneling**](#quantum-tunneling)
+      7. [**Heisenberg Uncertainity Principle**](#heisenberg-uncertainity-principle)
+      8. [**Energy Quantization**](#energy-quantization)
+   3. [Standard Model of Particle Physics](#standard-model-of-particle-physics)
+      1. [Higgs Boson Particle](#higgs-boson-particle)
+   4. [Quantum Particles](#quantum-particles)
+   5. [Quantum Mechanics](#quantum-mechanics)
+      1. [Difference between QP and QM](#difference-between-qp-and-qm)
+      2. [Wave Functions](#wave-functions)
+4. [🐱‍💻 QUANTUM Computing (FINALLY 🙃)](#-quantum-computing-finally-)
+5. [🔎 REFERENCES](#-references)
+6. [📒 GLOSSARY](#-glossary)
+7. [🎓 CITATION](#-citation)
+
 
 ----
+
 # ℹ️ REPO DESCRIPTION
 
 This repository contains the following information regarding $Quantum \ Computing$ .
